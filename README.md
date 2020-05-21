@@ -16,6 +16,10 @@ Lightcord is here to give this little layer of security that you wouldn't have w
 It has this list of trusted plugins/themes and warns the users that a plugin can be dangerous. 
 This way, the user can still enjoy the experience of BetterDiscord and Plugins without having to fear anything.
 
+# How do I get verified ?
+We take some times to find random plugins that works and aren't verified, that way, we can expand the list.
+If you aren't in it and you wish to, open an issue with the link to the source code of the plugin/theme (warning: Please give us the right source code. We won't be able to make the correct hash, and so to whitelist your plugin if it isn't the one who is distributed) and we'll see if the plugin is secure. If it is, you should be added to this list in less than two days.
+
 # Credits
 
 Actively maintened by [jeanouina](https://github.com/jeanouina) and [kvm46](https://github.com/kvm46)
