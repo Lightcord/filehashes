@@ -1,5 +1,6 @@
 {
   "validated":{
+    "hashes":["4f19c5a13547960c6f3bb2bd9e9aaaed5486f3b28da66866e4b23353627957ed","086e365d7bed2642b50093e5b023099d0100f3a2521e31d5c1e7d149159e4963","8d06678c99e4411b8a3ca2a5097499fe407d1c14aeb631af1c37756cf44f3f73"],
     "4f19c5a13547960c6f3bb2bd9e9aaaed5486f3b28da66866e4b23353627957ed":{"type":"Theme","name":"GlassCord Cobalt"},
     "086e365d7bed2642b50093e5b023099d0100f3a2521e31d5c1e7d149159e4963":{"type":"Theme","name":"GlassCord Example"},
     "8d06678c99e4411b8a3ca2a5097499fe407d1c14aeb631af1c37756cf44f3f73":{"type":"Theme","name":"DarkDiscord"}
