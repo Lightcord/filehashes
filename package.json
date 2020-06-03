@@ -1,0 +1,22 @@
+{
+  "name": "lc-filehashes",
+  "version": "1.0.0",
+  "description": "Validated/Trusted Plugins and Themes for Betterdiscord, used in [Lightcord Client](https://github.com/Lightcord/Lightcord) (comming soon)",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lightcord/filehashes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lightcord/filehashes/issues"
+  },
+  "homepage": "https://github.com/Lightcord/filehashes#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
