@@ -17,10 +17,18 @@ sources.forEach(src => {
 
         console.log(`\x1b[32m${src.replace("https://raw.githubusercontent.com/", "")}: \x1b[33m${hash}\x1b[0m`)
         if(fs.existsSync(__dirname+"/hashes/"+hash))return
-        fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-            type,
-            name: options.displayName || options.name
-        }, null, "    "))
+        if(src.includes("Lightcord/BetterDiscordAddons")){// official
+            fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                type,
+                name: options.displayName || options.name,
+                official: true
+            }, null, "    "))
+        }else{
+            fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                type,
+                name: options.displayName || options.name
+            }, null, "    "))
+        }
     }).catch(console.error)
 })
 
@@ -32,7 +40,7 @@ function parseMeta(content){
     if (hasOldMeta) return parseOldMeta(content);
     const hasNewMeta = firstLine.includes("/**");
     if (hasNewMeta) return parseNewMeta(content);
-    throw new Error("META was not found.");
+    throw new Error("META was not found." + content);
 }
 
 function parseOldMeta(content) {

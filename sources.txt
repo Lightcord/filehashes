@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/C
 
 https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/master/ELYSIA.theme.css
 https://raw.githubusercontent.com/codedotspectra/themes/master/themes-files/neutron.theme.css
+
+https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
