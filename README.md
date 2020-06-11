@@ -34,4 +34,4 @@ If you aren't in it and you wish to, open an issue with the link to the source c
 
 # Credits
 
-Actively maintened by [jeanouina](https://github.com/jeanouina) and [kvm46](https://github.com/kvm46)
+Actively maintened by [jeanouina](https://github.com/jeanouina) and [phorcys](https://github.com/phorcysed)
