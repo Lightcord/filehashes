@@ -1,3 +1,4 @@
+# Plugins
 https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js
 https://raw.githubusercontent.com/l0c4lh057/AccountSwitcher/master/AccountSwitcher.plugin.js
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/VoiceUsersCounter/VoiceUsersCounter.plugin.js
@@ -20,7 +21,9 @@ https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/T
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/MobileForAll/MobileForAll.plugin.js
 https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/SilentTyping.plugin.js
 
+# Themes
 https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/master/ELYSIA.theme.css
 https://raw.githubusercontent.com/codedotspectra/themes/master/themes-files/neutron.theme.css
 
+# Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css

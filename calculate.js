@@ -2,7 +2,7 @@ const fs = require("fs")
 const fetch = require("node-fetch").default
 const crypto = require("crypto")
 
-const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+"/sources.txt", "utf8").split(/[\r\n]+/g).filter(e => !!e)
+const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+"/sources.txt", "utf8").split(/[\r\n]+/g).filter(e => !!e && !e.startsWith("#"))
 
 console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https://raw.githubusercontent.com/", "")+"\x1b[0m").join(", ")}`)
 
