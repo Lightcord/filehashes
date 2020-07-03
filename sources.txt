@@ -1,6 +1,12 @@
 # Plugins
+
+## Libs
 https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js
+https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js
+
+## Normal plugins
 https://raw.githubusercontent.com/l0c4lh057/AccountSwitcher/master/AccountSwitcher.plugin.js
+https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/GuildData/GuildData.plugin.js
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/VoiceUsersCounter/VoiceUsersCounter.plugin.js
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/LinkChannels/LinkChannels.plugin.js
 https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/UnreadBadgesRedux/UnreadBadgesRedux.plugin.js
@@ -24,6 +30,7 @@ https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/SilentT
 # Themes
 https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/master/ELYSIA.theme.css
 https://raw.githubusercontent.com/codedotspectra/themes/master/themes-files/neutron.theme.css
+https://raw.githubusercontent.com/hellbound1337/dark-discord/master/DarkDiscord.theme.css
 
 # Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
