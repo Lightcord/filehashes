@@ -18,6 +18,8 @@ https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/Sa
 https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/CrashRecovery/CrashRecovery.plugin.js
 https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterUnavailableGuilds/BetterUnavailableGuilds.plugin.js
 https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/MessageLoggerV2.plugin.js
+https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/MobileForAll/MobileForAll.plugin.js
+https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/CustomQuoter/CustomQuoter.plugin.js
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/CharCounter/CharCounter.plugin.js
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/CreationDate/CreationDate.plugin.js
@@ -25,7 +27,6 @@ https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/H
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/DisplayLargeMessages/DisplayLargeMessages.plugin.js
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/OwnerTag/OwnerTag.plugin.js
 https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/ThemeRepo/ThemeRepo.plugin.js
-https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/MobileForAll/MobileForAll.plugin.js
 https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/SilentTyping.plugin.js
 
 # Themes
