@@ -1,6 +1,0 @@
-{
-    "suspect": true,
-    "name": "Security Test",
-    "type": "Plugin",
-    "harm": "test"
-}
