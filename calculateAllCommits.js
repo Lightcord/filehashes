@@ -1,6 +1,7 @@
 const fs = require("fs")
 const fetch = require("node-fetch").default
 const crypto = require("crypto")
+const ghToken = fs.readFileSync("./gh-token", "utf8")
 
 const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+"/sources.txt", "utf8").split(/[\r\n]+/g).filter(e => !!e && !e.startsWith("#"))
 
@@ -9,10 +10,14 @@ console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https:
 sources.forEach(src => {
     if(!src.startsWith("https://raw.githubusercontent.com/"))return
     let parts = src.split(/(https\:\/\/raw\.githubusercontent\.com\/|\/master\/)/g)
-    console.log(parts)
     let apiUrl = `https://api.github.com/repos/${parts[2]}/commits?path=/${parts[4]}`
 
-    fetch(apiUrl)
+    fetch(apiUrl, {
+        headers: {
+            "User-Agent": "Lightcord-Filehashes/1.0",
+            Authorization: "token "+ghToken
+        }
+    })
     .then(async res => {
         if(res.status !== 200)return console.error(`\x1b[31m${apiUrl} returned ${res.status}.\x1b[0m`)
         const commits = await res.json()
