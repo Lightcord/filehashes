@@ -7,7 +7,8 @@ const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+
 
 console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https://raw.githubusercontent.com/", "")+"\x1b[0m").join(", ")}`)
 
-sources.forEach(src => {
+sources.forEach(async (src, i) => {
+    await new Promise(resolve => setTimeout(resolve, i * 100))
     if(!src.startsWith("https://raw.githubusercontent.com/"))return
     let parts = src.split(/(https\:\/\/raw\.githubusercontent\.com\/|\/master\/)/g)
     let apiUrl = `https://api.github.com/repos/${parts[2]}/commits?path=/${parts[4]}`
@@ -57,7 +58,7 @@ function parseMeta(content){
     if (hasOldMeta) return parseOldMeta(content);
     const hasNewMeta = firstLine.includes("/**");
     if (hasNewMeta) return parseNewMeta(content);
-    throw new Error("META was not found." + content);
+    throw new Error("META was not found.");
 }
 
 function parseOldMeta(content) {
