@@ -1,1 +1,4 @@
-{"type":"Plugin","name":"ZeresPluginLibrary"}
+{
+    "type": "Plugin",
+    "name": "ZeresPluginLibrary"
+}
