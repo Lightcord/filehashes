@@ -13,7 +13,13 @@ sources.forEach(src => {
         const body = await res.buffer()
         const hash = crypto.createHash("sha256").update(body).digest("hex")
         const type = src.endsWith(".js") ? "Plugin" : "Theme"
-        const options = parseMeta(body.toString("utf8"))
+        let options
+        try{
+            options = parseMeta(body.toString("utf8"))
+        }catch(e){
+            console.log(src, e)
+            return
+        }
 
         console.log(`\x1b[32m${src.replace("https://raw.githubusercontent.com/", "")}: \x1b[33m${hash}\x1b[0m`)
         if(fs.existsSync(__dirname+"/hashes/"+hash))return
@@ -40,7 +46,7 @@ function parseMeta(content){
     if (hasOldMeta) return parseOldMeta(content);
     const hasNewMeta = firstLine.includes("/**");
     if (hasNewMeta) return parseNewMeta(content);
-    throw new Error("META was not found." + content);
+    throw new Error("META was not found.");
 }
 
 function parseOldMeta(content) {
