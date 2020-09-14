@@ -14,11 +14,11 @@ Validated/Trusted Plugins and Themes for Betterdiscord, used in [Lightcord Clien
 # What it is ?
 Every time you receive a plugin/theme on Discord (in an attachment), Lightcord will tell you if it's trusted or if it doesn't know.
 Lightcord hashes the plugin content and compare if there's a similar plugin in this repository.
-It shows a little icon like this: 
+It shows a little icon like this: <br />
 ![Lightcord Trusted](https://raw.githubusercontent.com/Lightcord/filehashes/master/images/60DL7OU.png)<br />
 if a Lightcord Developer has made the plugin/theme, It shows a Discord-Partner like icon
 ![Lightcord Trusted Developer](https://raw.githubusercontent.com/Lightcord/filehashes/master/images/gr5GJIc.png)<br />
-And if the plugin/theme is suspected for being a threat, it will show up a do-not-disturb icon plus a warning when clicking on it.
+And if the plugin/theme is suspected for being a threat, it will show up a do-not-disturb icon plus a warning when clicking on it. <br />
 ![Lightcord Trusted Developer](https://raw.githubusercontent.com/Lightcord/filehashes/master/images/AlsQ4fU.png)<br />
 
 # Why ?
