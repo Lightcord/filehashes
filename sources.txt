@@ -164,7 +164,7 @@ https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/master/v1/VoiceE
 # Themes
 https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/master/ELYSIA.theme.css
 https://raw.githubusercontent.com/codedotspectra/themes/master/themes-files/neutron.theme.css
-https://raw.githubusercontent.com/hellbound1337/dark-discord/master/DarkDiscord.theme.css
+https://raw.githubusercontent.com/hormelcookies/dark-discord/hormelcookies-patch-1/DarkDiscord.theme.css
 https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/NieR-Automata-UI-import.theme.css
 https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/master/Themes/FrostedGlassRewrite.theme.css
 https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/master/Themes/MiniTheme.theme.css
