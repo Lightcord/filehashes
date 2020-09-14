@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/discord/705908350218666117?logo=discord&style=flat-square&color=%237289DA)](https://discord.gg/7eFff2A)
 ---
 # Filehashes
-Validated/Trusted Plugins and Themes for Betterdiscord, used in [Lightcord Client](https://github.com/Lightcord/Lightcord) (comming soon)
+Validated/Trusted Plugins and Themes for Betterdiscord, used in [Lightcord Client](https://github.com/Lightcord/Lightcord)
 
 # What it is ?
 Every time you receive a plugin/theme on Discord (in an attachment), Lightcord will tell you if it's trusted or if it doesn't know.
