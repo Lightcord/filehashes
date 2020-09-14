@@ -304,7 +304,6 @@ https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Theme css/Final
 https://raw.githubusercontent.com/YuraBrm/BetterDiscordThemes/master/Avis/Avis.theme.css
 https://raw.githubusercontent.com/Zerthox/Discord-Color-Accent/master/CustomColorAccent.theme.css
 https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/master/Material_Icon.theme.css
-https://raw.githubusercontent.com/zzzmario/dark-discord/master/DarkDiscord.theme.css
 
 # Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
