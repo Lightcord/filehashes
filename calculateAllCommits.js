@@ -9,9 +9,12 @@ console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https:
 
 sources.forEach(async (src, i) => {
     await new Promise(resolve => setTimeout(resolve, i * 100))
-    if(!src.startsWith("https://raw.githubusercontent.com/"))return
-    let parts = src.split(/(https\:\/\/raw\.githubusercontent\.com\/|\/master\/)/g)
-    let apiUrl = `https://api.github.com/repos/${parts[2]}/commits?path=/${parts[4]}`
+    let parts = src.match(/^https\:\/\/raw\.githubusercontent\.com\/([\w\d-\.]+\/[\w\d-\.]+)\/([\.\w\d-]+)([^\n]+)$/)
+    if(!parts)return // didn't match a github link
+    const repo = parts[1]
+    const branch = parts[2]
+    const path = parts[3]
+    let apiUrl = `https://api.github.com/repos/${repo}/commits?sha=${branch}&path=${path}`
 
     fetch(apiUrl, {
         headers: {
@@ -23,7 +26,7 @@ sources.forEach(async (src, i) => {
         if(res.status !== 200)return console.error(`\x1b[31m${apiUrl} returned ${res.status}.\x1b[0m`)
         const commits = await res.json()
         commits.forEach(comm => {
-            fetch(`https://raw.githubusercontent.com/${parts[2]}/${comm.sha}/${parts[4]}`)
+            fetch(`https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`)
             .then(async res => {
                 if(res.status !== 200)return console.error(`\x1b[31m${src} returned ${res.status}.\x1b[0m`)
                 const body = await res.buffer()
