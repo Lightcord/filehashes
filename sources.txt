@@ -160,6 +160,20 @@ https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/master/v1/Better
 https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/master/v1/Emulator.plugin.js
 https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/master/v1/OnlineFriendCount.plugin.js
 https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/master/v1/VoiceEvents.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/AutoCorrectV2/AutoCorrectV2.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/BetterQuoter/BetterQuoter.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/LinkChannels/LinkChannels.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/MessageDoubleClickActions/MessageDoubleClickActions.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/MessageLinkEmbed/MessageLinkEmbed.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/OpenLinksInSpecificBrowser/OpenLinksInSpecificBrowser.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/OpenSpotifylinksInSpotify/OpenSpotifylinksInSpotify.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/QuickInspector/QuickInspector.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/QuickMuteChannels/QuickMuteChannels.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/RelationshipCounter/RelationshipCounter.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/ShowAllActivities/ShowAllActivities.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/ShutUpClyde/ShutUpClyde.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/TwitchChatV2/TwitchChatV2.plugin.js
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/VoiceUsersCounter/VoiceUsersCounter.plugin.js
 
 # Themes
 https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/master/ELYSIA.theme.css
@@ -304,6 +318,8 @@ https://raw.githubusercontent.com/Wahrandz/NieR-Automata-/master/Theme css/Final
 https://raw.githubusercontent.com/YuraBrm/BetterDiscordThemes/master/Avis/Avis.theme.css
 https://raw.githubusercontent.com/Zerthox/Discord-Color-Accent/master/CustomColorAccent.theme.css
 https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/master/Material_Icon.theme.css
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Themes/JustBlack/JustBlack.theme.css
+https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Themes/BetterUnreadIndicators/BetterUnreadIndicators.theme.css
 
 # Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
