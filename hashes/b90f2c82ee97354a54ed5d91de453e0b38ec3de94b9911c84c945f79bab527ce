@@ -1,0 +1,6 @@
+{
+    "harm": "Blacklist: Selfbot",
+    "name": "BotNeckPlugin",
+    "suspect": true,
+    "type": "Plugin"
+}

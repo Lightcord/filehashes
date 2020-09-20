@@ -5,10 +5,18 @@ const ghToken = fs.readFileSync("./gh-token", "utf8")
 
 const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+"/sources.txt", "utf8").split(/[\r\n]+/g).filter(e => !!e && !e.startsWith("#"))
 
-console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https://raw.githubusercontent.com/", "")+"\x1b[0m").join(", ")}`)
+//console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https://raw.githubusercontent.com/", "")+"\x1b[0m").join(", ")}`)
 
 sources.forEach(async (src, i) => {
     await new Promise(resolve => setTimeout(resolve, i * 100))
+    let blacklist = false
+    let blacklistReason = null
+    if(src.startsWith("!")){
+        blacklist = true
+        blacklistReason = src.split(" - ").slice(1).join(" - ") || "No reason specified."
+        src = src.slice(1).split(" - ")[0]
+    }
+    console.log(src)
     let parts = src.match(/^https\:\/\/raw\.githubusercontent\.com\/([\w\d-\.]+\/[\w\d-\.]+)\/([\.\w\d-]+)([^\n]+)$/)
     if(!parts)return // didn't match a github link
     const repo = parts[1]
@@ -28,25 +36,40 @@ sources.forEach(async (src, i) => {
         commits.forEach(comm => {
             fetch(`https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`)
             .then(async res => {
-                if(res.status !== 200)return console.error(`\x1b[31m${src} returned ${res.status}.\x1b[0m`)
+                if(res.status !== 200)return console.error(`\x1b[31m${repo}/${comm.sha}${path} returned ${res.status}.\x1b[0m`)
                 const body = await res.buffer()
                 const hash = crypto.createHash("sha256").update(body).digest("hex")
                 const type = src.endsWith(".js") ? "Plugin" : "Theme"
                 const options = parseMeta(body.toString("utf8"))
         
                 console.log(`\x1b[32m${src.replace("https://raw.githubusercontent.com/", "")}: \x1b[33m${hash}\x1b[0m`)
-                if(fs.existsSync(__dirname+"/hashes/"+hash))return
-                if(src.includes("Lightcord/BetterDiscordAddons")){// official
+                if(fs.existsSync(__dirname+"/hashes/"+hash)){
+                    const data = JSON.parse(fs.readFileSync(__dirname+"/hashes/"+hash, "utf-8"))
+                    if(!!data.suspect !== blacklist){
+                        console.log(`Switching ${repo}/${comm.sha}${path} to ${!data.suspect}`)
+                    }else return
+                }
+
+                if(blacklist){
                     fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-                        type,
+                        harm: "Blacklist: "+blacklistReason,
                         name: options.displayName || options.name,
-                        official: true
+                        suspect: true,
+                        type
                     }, null, "    "))
                 }else{
-                    fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-                        type,
-                        name: options.displayName || options.name
-                    }, null, "    "))
+                    if(src.includes("Lightcord/BetterDiscordAddons")){// official
+                        fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                            type,
+                            name: options.displayName || options.name,
+                            official: true
+                        }, null, "    "))
+                    }else{
+                        fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                            type,
+                            name: options.displayName || options.name
+                        }, null, "    "))
+                    }
                 }
             }).catch(console.error)
         })

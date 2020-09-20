@@ -324,3 +324,6 @@ https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Themes/Bet
 
 # Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
+
+# Blacklist
+!https://raw.githubusercontent.com/AtiLion/BotNeck-Bot/master/BotNeck.plugin.js - Selfbot
