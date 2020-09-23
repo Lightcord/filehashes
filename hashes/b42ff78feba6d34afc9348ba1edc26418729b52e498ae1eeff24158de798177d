@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Infernal_Prison"
+    "name": "Infernal_Prison",
+    "src": "https://raw.githubusercontent.com/KaminariKillua/Themes/b02ec6779bc984f08d95bea33c564bd6a384f54e/InfernalPrison/InfernalPrison.theme.css"
 }

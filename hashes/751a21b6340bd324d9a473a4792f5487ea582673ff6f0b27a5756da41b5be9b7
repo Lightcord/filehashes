@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideIconBadge"
+    "name": "HideIconBadge",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/d2bae1c3ee4cc8dee0066adaa67bf8254f73ca80/Plugins/HideIconBadge/HideIconBadge.plugin.js"
 }

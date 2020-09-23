@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "discordCrypt"
+    "name": "discordCrypt",
+    "src": "https://raw.githubusercontent.com/leogx9r/DiscordCrypt/fc5df8d410777eabc3d120da67616a82bcd840af/build/discordCrypt.plugin.js"
 }

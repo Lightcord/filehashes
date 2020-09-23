@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "Zalgo"
+    "name": "Zalgo",
+    "src": "https://raw.githubusercontent.com/planetarian/BetterDiscordPlugins/7bdd7bb81c05eb0876c522c73c315cb9a86e148a/Zalgo.plugin.js"
 }

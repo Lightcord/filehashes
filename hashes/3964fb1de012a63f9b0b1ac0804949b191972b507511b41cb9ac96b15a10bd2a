@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Chat_Text_Bubbles_Minified"
+    "name": "Chat_Text_Bubbles_Minified",
+    "src": "https://raw.githubusercontent.com/mrmaple240/ChatTextBubbles/4465a21a5fbc4eac227854271ef80b029c629261/ChatTextBubblesMinified.theme.css"
 }

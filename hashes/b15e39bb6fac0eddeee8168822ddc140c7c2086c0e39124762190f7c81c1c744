@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AvatarIconViewer"
+    "name": "AvatarIconViewer",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/a1db1cb4a2c7d0df0db0b27e31731f33deba50df/AvatarIconViewer.plugin.js"
 }

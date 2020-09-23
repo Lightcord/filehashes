@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Material_Discord"
+    "name": "Material_Discord",
+    "src": "https://raw.githubusercontent.com/CapnKitten/Material-Discord/e3bda4035a41820dab47833337d2e6605d04cf57/Material-Discord.theme.css"
 }

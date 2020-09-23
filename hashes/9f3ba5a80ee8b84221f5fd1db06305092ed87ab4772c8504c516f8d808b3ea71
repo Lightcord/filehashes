@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ChannelPopouts"
+    "name": "ChannelPopouts",
+    "src": "https://raw.githubusercontent.com/Curtis-D/ChannelPopouts/d117e324e1297839a48d40cceae0b68aa0e9d8c7/ChannelPopouts.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "SimplyDark"
+    "name": "SimplyDark",
+    "src": "https://raw.githubusercontent.com/Gibbu/BetterDiscord-Themes/b7716660ea16c1ad286dedc0e6986b44f8da8a15/SimplyDark/SimplyDark.theme.css"
 }

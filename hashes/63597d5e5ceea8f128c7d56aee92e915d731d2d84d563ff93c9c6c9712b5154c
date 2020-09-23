@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BDContextMenu"
+    "name": "BDContextMenu",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/533c034d5997e10c82421df91220141db5961629/Plugins/BDContextMenu/BDContextMenu.plugin.js"
 }

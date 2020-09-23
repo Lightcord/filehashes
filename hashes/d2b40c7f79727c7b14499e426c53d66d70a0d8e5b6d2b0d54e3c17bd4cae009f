@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Minified Memberlist"
+    "name": "Minified Memberlist",
+    "src": "https://raw.githubusercontent.com/Chloesviel/Discord-Stuff/b325ca5beb506c8e3c0275c93e2a2cfb9961d572/minifiedMemberlist/minifiedMemberlist.theme.css"
 }

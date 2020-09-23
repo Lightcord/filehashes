@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SquareLib"
+    "name": "SquareLib",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/778ff5750718aff70fd6a535cdcb81641c28e18d/plugins/0circle.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ShareButton"
+    "name": "ShareButton",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/27bd095b7bd2b002bfe06b77b0ad6a588ea21b53/ShareButton.plugin.js"
 }

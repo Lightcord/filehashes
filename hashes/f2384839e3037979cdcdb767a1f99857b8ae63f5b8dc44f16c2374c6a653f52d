@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Elegant_Blue"
+    "name": "Elegant_Blue",
+    "src": "https://raw.githubusercontent.com/archnemeziz/Discord/5ed1c3a24e6fab906c8d12713e5e0f53dbc6064e/ElegantBlue.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "FullThemeDark"
+    "name": "FullThemeDark",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/dbe7d1e18faebe49a17202944aee0daf1f37edc9/Themes/FullThemeDark/FullThemeDark.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "XenoLib"
+    "name": "XenoLib",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/460a34e4140acc4cea16c7b5ed78274607e98e9b/Plugins/1XenoLib.plugin.js"
 }

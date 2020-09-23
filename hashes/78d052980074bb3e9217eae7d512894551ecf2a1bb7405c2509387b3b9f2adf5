@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AutoPlayGifs"
+    "name": "AutoPlayGifs",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/6489fc9a31625da32a00e6bce3c90f7ad709d810/Plugins/AutoPlayGifs/AutoPlayGifs.plugin.js"
 }

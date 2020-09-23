@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ServerCounter"
+    "name": "ServerCounter",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/a3d97c9ffa66ff776a77d528dc75979b242c74c6/Plugins/ServerCounter/ServerCounter.plugin.js"
 }

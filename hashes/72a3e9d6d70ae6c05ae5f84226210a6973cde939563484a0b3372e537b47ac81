@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "JustBlack_Theme"
+    "name": "JustBlack_Theme",
+    "src": "https://raw.githubusercontent.com/Dddsasul/TeamKappa-theme/d1e7577c98dcbcc572a7afb7eb527a292c8c28fc/JustBlack.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "QuickDeleteMessages"
+    "name": "QuickDeleteMessages",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/b071ba2d1f99103e101453d76c4cb89d12bab704/plugins/QuickDeleteMessages.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "ClearDiscord_Theme"
+    "name": "ClearDiscord_Theme",
+    "src": "https://raw.githubusercontent.com/Dddsasul/TeamKappa-theme/5fa9548547e8f2503f85d4779ed173678c02a454/ClearDiscord.theme.css"
 }

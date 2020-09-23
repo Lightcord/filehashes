@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideMutedServers"
+    "name": "HideMutedServers",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/f621a85cdc6c8ac8579e5438a24b39f706243f21/Plugins/HideMutedServers/HideMutedServers.plugin.js"
 }

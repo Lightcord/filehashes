@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "staticAvatars"
+    "name": "staticAvatars",
+    "src": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/8dfaed6573d45f63e817948d7cbd3c2ccd1cdfb3/StaticAvatars.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "four_twenty"
+    "name": "four_twenty",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/592665875cca0b2af48eb64ba6d65844608d845d/Themes/Main/420.theme.css"
 }

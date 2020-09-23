@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "ELYSIA"
+    "name": "ELYSIA",
+    "src": "https://raw.githubusercontent.com/GoldenLys/BetterDiscord-Elysia/182f502062cba89ce2e403ad044431b91a14065c/ELYSIA.theme.css"
 }

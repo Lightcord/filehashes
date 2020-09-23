@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Indigo"
+    "name": "Indigo",
+    "src": "https://raw.githubusercontent.com/Vaxuuu/Indigo-Theme/3bd8de7c0a620991d0ed012eaf05b4ea2b05644d/Indigo.theme.css"
 }

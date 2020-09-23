@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "BlurpleRecolor"
+    "name": "BlurpleRecolor",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/cdcbe1496efe6e7e95d4c77149b5744fda12e2e6/Themes/BlurpleRecolor/BlurpleRecolor.theme.css"
 }

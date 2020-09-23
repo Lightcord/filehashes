@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SaveToRedux"
+    "name": "SaveToRedux",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/1fa29886ed720251ba5c1bb3a8dded70106df197/Plugins/SaveToRedux/SaveToRedux.plugin.js"
 }

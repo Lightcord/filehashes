@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ServerSearch"
+    "name": "ServerSearch",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/6fe7c148ff3680284d901a9d94af50cb87f7f66d/Plugins/ServerSearch/ServerSearch.plugin.js"
 }

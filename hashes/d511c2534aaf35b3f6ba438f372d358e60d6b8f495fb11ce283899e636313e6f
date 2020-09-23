@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MultiInstance"
+    "name": "MultiInstance",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/21e949daf461b823860acc027a4d8e8007d38315/plugins/MultiInstance.plugin.js"
 }

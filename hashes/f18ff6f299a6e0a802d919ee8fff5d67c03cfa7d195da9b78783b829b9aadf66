@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SpotifyControls"
+    "name": "SpotifyControls",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/3b266b0e0989975167a96e9f71994062233f3321/Plugins/SpotifyControls/SpotifyControls.plugin.js"
 }

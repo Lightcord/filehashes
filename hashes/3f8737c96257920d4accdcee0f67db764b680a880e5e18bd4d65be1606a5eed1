@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Black Hole"
+    "name": "Black Hole",
+    "src": "https://raw.githubusercontent.com/monstrousdev/themes/4380cb39bff7c10aa7a0679215ecd70379bd8332/theme-files/Black-Hole.theme.css"
 }

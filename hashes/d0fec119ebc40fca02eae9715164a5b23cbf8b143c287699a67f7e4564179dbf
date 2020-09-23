@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterRoleColors"
+    "name": "BetterRoleColors",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/dd914e1ea8fef02aefe1cb3afa3812f2d51f3109/Plugins/BetterRoleColors/BetterRoleColors.plugin.js"
 }

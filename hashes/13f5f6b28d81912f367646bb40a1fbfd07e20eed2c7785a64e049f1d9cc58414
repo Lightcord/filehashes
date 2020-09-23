@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Chat_Text_Bubbles"
+    "name": "Chat_Text_Bubbles",
+    "src": "https://raw.githubusercontent.com/mrmaple240/ChatTextBubbles/3f29179121ca05b2cb51031132566bd7dce2bc61/ChatTextBubbles.theme.css"
 }

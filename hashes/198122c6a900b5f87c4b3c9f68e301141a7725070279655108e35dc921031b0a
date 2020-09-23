@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SendButton"
+    "name": "SendButton",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/9b09b08f173754a5268bf7135211bd0e92e5cbe9/Plugins/SendButton/SendButton.plugin.js"
 }

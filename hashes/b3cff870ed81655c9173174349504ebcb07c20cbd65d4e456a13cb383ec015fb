@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "No2B"
+    "name": "No2B",
+    "src": "https://raw.githubusercontent.com/ImBastion/BD-Themes/9dc7d5b1e48e7ba94331c085fafd31223392e708/Theme/No2BBase.theme.css"
 }

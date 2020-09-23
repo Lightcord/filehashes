@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "channelHistory"
+    "name": "channelHistory",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/2a0aca27a753e0d680151c90bae482f1f6bec269/plugins/channelHistory.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "StatusEverywhere"
+    "name": "StatusEverywhere",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/8ce85e2ddb1c315f4057f2f87fe0b82ea985436c/Plugins/StatusEverywhere/StatusEverywhere.plugin.js"
 }

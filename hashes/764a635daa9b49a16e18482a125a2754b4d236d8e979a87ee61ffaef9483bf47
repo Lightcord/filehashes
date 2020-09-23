@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "MaterialCons"
+    "name": "MaterialCons",
+    "src": "https://raw.githubusercontent.com/Tropix126/BetterDiscordStuff/8d507f407f87c53a8dfac0cf1b4b0bdb806f0219/materialcons/MaterialCons.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "User Avatar And Server Icon Viewer"
+    "name": "User Avatar And Server Icon Viewer",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/5e38a5bc7cb0ad07da6a8766907124311dc6cfd5/AvatarIconViewer.plugin.js"
 }

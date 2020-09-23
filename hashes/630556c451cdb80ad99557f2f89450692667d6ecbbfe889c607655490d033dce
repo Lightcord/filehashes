@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "ClearVision"
+    "name": "ClearVision",
+    "src": "https://raw.githubusercontent.com/ClearVision/ClearVision-v6/c90436e982e95c8e648efbceabc040267eee6ec2/ClearVision_v6.theme.css"
 }

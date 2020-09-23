@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "NotAnotherAnimeThemeSCSL"
+    "name": "NotAnotherAnimeThemeSCSL",
+    "src": "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/eee8167b44e79cf7cfa84a582545545ff89dc9c6/NotAnotherAnimeThemeSCSL.theme.css"
 }

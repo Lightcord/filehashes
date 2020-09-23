@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "WordNotifications"
+    "name": "WordNotifications",
+    "src": "https://raw.githubusercontent.com/qwerasd205/qwerasd205.github.io/367ea8d82253c153068cb8da783aa6dfa65da2be/WordNotifications.plugin.js"
 }

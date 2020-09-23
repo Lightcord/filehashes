@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "GuildData"
+    "name": "GuildData",
+    "src": "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/b7faf2480d02c76cc293170f846c54cf948dabe4/Plugins/GuildData/GuildData.plugin.js"
 }

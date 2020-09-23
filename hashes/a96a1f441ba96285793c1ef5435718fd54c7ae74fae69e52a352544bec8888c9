@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "IOS_switches"
+    "name": "IOS_switches",
+    "src": "https://raw.githubusercontent.com/BeardDesign1/Ios-switches/3886151a78a9059edf17adefcc4939c553c47039/IOS_Switches.theme.css"
 }

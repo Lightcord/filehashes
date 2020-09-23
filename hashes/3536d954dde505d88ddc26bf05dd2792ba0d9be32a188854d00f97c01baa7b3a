@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ImageToClipboard"
+    "name": "ImageToClipboard",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/43763629ae8435ae1be86cf73e75e3c7b7a8bce0/Plugins/ImageToClipboard/ImageToClipboard.plugin.js"
 }

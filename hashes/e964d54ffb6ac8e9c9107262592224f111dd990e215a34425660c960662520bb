@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Anti_Lag"
+    "name": "Anti_Lag",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/5687b0ff0f9fa7bc5866a43bb82fdec1897103d0/Themes/Main/Anti_Lag.theme.css"
 }

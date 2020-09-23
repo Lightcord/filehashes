@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "SeperateTextareaButtons"
+    "name": "SeperateTextareaButtons",
+    "src": "https://raw.githubusercontent.com/mrmaple240/betterdiscord-mini-themes/7486a1e4cffd0a58a607abd6f40d15b2714d1044/SeperateTextareaButtons.theme.css"
 }

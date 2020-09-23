@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ShowAllActivities"
+    "name": "ShowAllActivities",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/da23ae7ae703b3d8488af22c957e5861fdaf51b1/ShowAllActivities/ShowAllActivities.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "GlossyCyan"
+    "name": "GlossyCyan",
+    "src": "https://raw.githubusercontent.com/HansAnonymous/BD-Themes-and-Plugins/d3ba94a3176510fb70c0f425ed7f197014800982/Themes/Glossy-Cyan/Glossy-Cyan.H.theme.css"
 }

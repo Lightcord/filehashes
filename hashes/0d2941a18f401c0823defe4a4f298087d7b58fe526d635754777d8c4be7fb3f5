@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DoNotTrack"
+    "name": "DoNotTrack",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/21f407d36178293896ab41ad5162fde38068eda0/Plugins/DoNotTrack/DoNotTrack.plugin.js"
 }

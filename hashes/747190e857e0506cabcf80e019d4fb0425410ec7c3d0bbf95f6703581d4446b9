@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SendAudio"
+    "name": "SendAudio",
+    "src": "https://raw.githubusercontent.com/MKSx/Send-Audio-Plugin-BetterDiscord/a0722e7c20f3a7f628124f7914c8617ca8a6660a/SendAudio.plugin.js"
 }

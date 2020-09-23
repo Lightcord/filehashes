@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Transparency Theme"
+    "name": "Transparency Theme",
+    "src": "https://raw.githubusercontent.com/Twiistrz/TransparencyTheme/64aa09cc6118903be8ce609001cd9178a7b241e7/TransparencyConfig.theme.css"
 }

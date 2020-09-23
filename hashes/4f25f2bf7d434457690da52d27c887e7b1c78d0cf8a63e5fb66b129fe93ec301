@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Halloween"
+    "name": "Halloween",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/48b7e2131dd6b910e91de8423380d04895e434b9/Themes/Main/Halloween.theme.css"
 }

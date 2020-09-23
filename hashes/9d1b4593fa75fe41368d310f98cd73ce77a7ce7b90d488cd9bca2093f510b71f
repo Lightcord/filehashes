@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "JustDark"
+    "name": "JustDark",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/e55f75eee650c9e9bd8a08f91b35e584624c93d3/Themes/JustBlack/JustBlack.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "DarkerDiscordTheme"
+    "name": "DarkerDiscordTheme",
+    "src": "https://raw.githubusercontent.com/redsauce117/SauceysDiscordThemes/40126e2edefff58bb4e468885e7379780fc618d4/DarkerDiscordTheme.theme.css"
 }

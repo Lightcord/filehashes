@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "scrollToLast"
+    "name": "scrollToLast",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/445f2b5dc884993ac8f87a36d2d63a1dae95adcb/plugins/scrollToLast.plugin.js"
 }

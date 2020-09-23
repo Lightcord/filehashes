@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "ServerColumns"
+    "name": "ServerColumns",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/35a63cdd4c7fd7ce70d9bea64300b2fcf13550ff/Themes/ServerColumns/ServerColumns.theme.css"
 }

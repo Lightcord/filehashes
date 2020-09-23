@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "EmojiUtilities"
+    "name": "EmojiUtilities",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/2350663e8ee32b9dcc9806cab6159fb0926fc3bf/Plugins/EmojiUtilities/EmojiUtilities.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "MinimalImprovement"
+    "name": "MinimalImprovement",
+    "src": "https://raw.githubusercontent.com/Juicysteak117/MinimalImprovement/048c520547d903b228aabffbe47fbf978e7abf20/MinimalImprovement.theme.css"
 }

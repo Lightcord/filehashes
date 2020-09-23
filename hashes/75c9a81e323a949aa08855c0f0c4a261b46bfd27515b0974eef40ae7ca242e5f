@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "GuildCounter"
+    "name": "GuildCounter",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/e686434644d256aba250833df28fc75fe2de3505/GuildCounter.plugin.js"
 }

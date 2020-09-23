@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "GGO Kirito"
+    "name": "GGO Kirito",
+    "src": "https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/e01a1f47e93e8c27bcf573505f0006e35e46ecbf/Themes/GGO_Kirito/GGO_Kirito.theme.css"
 }

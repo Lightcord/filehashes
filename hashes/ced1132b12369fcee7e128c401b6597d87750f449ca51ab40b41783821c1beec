@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Bash"
+    "name": "Bash",
+    "src": "https://raw.githubusercontent.com/A-User-s-Discord-Themes/Bash/222e2e35e04cf52afc32b1b951e78e2db871b477/bash.theme.css"
 }

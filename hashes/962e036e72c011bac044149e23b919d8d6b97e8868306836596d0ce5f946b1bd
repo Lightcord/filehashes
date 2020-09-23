@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Mutual_Servers_Server_Count"
+    "name": "Mutual_Servers_Server_Count",
+    "src": "https://raw.githubusercontent.com/mrmaple240/betterdiscord-mini-themes/ce14cc084d7e531403395a3bcc13f11941e0a969/Mutual_Servers_Server_Count.theme.css"
 }

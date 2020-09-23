@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideUtils"
+    "name": "HideUtils",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/9e56df764037acc06173a9eda6a1cdcaa61e5c1d/ToastIntegrated/HideUtils/HideUtils.plugin.js"
 }

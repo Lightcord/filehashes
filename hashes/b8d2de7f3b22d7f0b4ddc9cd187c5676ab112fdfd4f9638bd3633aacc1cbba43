@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ViewGuildRelationships"
+    "name": "ViewGuildRelationships",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/e324f1bd9caf3e0e42c11d56af70e9c68d08b880/ViewGuildRelationships.plugin.js"
 }

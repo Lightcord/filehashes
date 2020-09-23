@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "HansAnonymousAdditions"
+    "name": "HansAnonymousAdditions",
+    "src": "https://raw.githubusercontent.com/HansAnonymous/BD-Themes-and-Plugins/670ac5cafab867de680c994702e029a24a66c7b0/Themes/HansAnonymousAdditions/HAA.theme.css"
 }

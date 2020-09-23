@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "YouTubePopouts"
+    "name": "YouTubePopouts",
+    "src": "https://raw.githubusercontent.com/KyzaGitHub/Khub/4a5fb69f9480c0cbef156121012f31de05c00043/Plugins/YouTubePopouts/YouTubePopouts.plugin.js"
 }

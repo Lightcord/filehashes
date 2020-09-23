@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Revert Discord"
+    "name": "Revert Discord",
+    "src": "https://raw.githubusercontent.com/fluffingtons/revert-discord/1f5c41bc8aa308566da4536c7d87976a1d5c8d21/revert.theme.css"
 }

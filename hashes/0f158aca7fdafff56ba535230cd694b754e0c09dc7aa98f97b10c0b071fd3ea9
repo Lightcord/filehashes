@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "NoDeleteMessages"
+    "name": "NoDeleteMessages",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins/ff6826b722644919e2aca9bd28222e741087360f/NoDeleteMessages/NoDeleteMessages.plugin.js"
 }

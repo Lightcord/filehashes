@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "RemoveMinimumSize"
+    "name": "RemoveMinimumSize",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/5eddeb32b0f8fec957d10b34b76d5f58d0106f39/Plugins/RemoveMinimumSize/RemoveMinimumSize.plugin.js"
 }

@@ -55,19 +55,22 @@ sources.forEach(async (src, i) => {
                         harm: "Blacklist: "+blacklistReason,
                         name: options.displayName || options.name,
                         suspect: true,
-                        type
+                        type,
+                        src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
                     }, null, "    "))
                 }else{
                     if(src.includes("Lightcord/BetterDiscordAddons")){// official
                         fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
                             type,
                             name: options.displayName || options.name,
-                            official: true
+                            official: true,
+                            src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
                         }, null, "    "))
                     }else{
                         fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
                             type,
-                            name: options.displayName || options.name
+                            name: options.displayName || options.name,
+                            src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
                         }, null, "    "))
                     }
                 }

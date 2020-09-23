@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "OpenLinksInSpecificBrowser"
+    "name": "OpenLinksInSpecificBrowser",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/fb0cd1a154314226e31ecaa934d92461db5f0110/OpenLinksInSpecificBrowser/OpenLinksInSpecificBrowser.plugin.js"
 }

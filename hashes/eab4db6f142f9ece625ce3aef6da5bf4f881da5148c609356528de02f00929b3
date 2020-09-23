@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "LinkChannels"
+    "name": "LinkChannels",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/f130e77ef56e80b0da5f636ff963324b6ee1d1ef/LinkChannels/LinkChannels.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AlwaysMentionEveryone"
+    "name": "AlwaysMentionEveryone",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/e5e134857979dd31e9aafdfd569d9429d4025442/Plugins/AlwaysMentionEveryone/AlwaysMentionEveryone.plugin.js"
 }

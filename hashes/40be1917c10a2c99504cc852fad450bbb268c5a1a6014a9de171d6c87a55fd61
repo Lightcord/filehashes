@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterFriendList"
+    "name": "BetterFriendList",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/8a7dc92330fd2c569e035b5f84e3b61e2ed9df2e/Plugins/BetterFriendList/BetterFriendList.plugin.js"
 }

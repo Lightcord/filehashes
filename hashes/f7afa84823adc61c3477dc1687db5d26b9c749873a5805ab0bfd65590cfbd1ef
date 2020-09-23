@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ReadAllNotificationsButton"
+    "name": "ReadAllNotificationsButton",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/b8a43942d43475ccd94744d608410ad1a8cfbfe8/Plugins/ReadAllNotificationsButton/ReadAllNotificationsButton.plugin.js"
 }

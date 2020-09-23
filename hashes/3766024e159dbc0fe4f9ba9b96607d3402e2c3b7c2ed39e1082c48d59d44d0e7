@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MessageUtilities"
+    "name": "MessageUtilities",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/0cb6b4aef4e90dd5818600df72c28f3c55010247/Plugins/MessageUtilities/MessageUtilities.plugin.js"
 }

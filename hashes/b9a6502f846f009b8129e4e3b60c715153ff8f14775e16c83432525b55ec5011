@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "CreationDate"
+    "name": "CreationDate",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/bce4191a2467226e3c51eb6fba619be3d595e556/Plugins/CreationDate/CreationDate.plugin.js"
 }

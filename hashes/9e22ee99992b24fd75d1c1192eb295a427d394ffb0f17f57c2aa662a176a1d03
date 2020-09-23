@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "BasicBackground"
+    "name": "BasicBackground",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/2d44e0d02970733153c4baceaa81883955f968e7/Themes/BasicBackground/BasicBackground.theme.css"
 }

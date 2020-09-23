@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DetailedServerTooltips"
+    "name": "DetailedServerTooltips",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/1cbce4c0f4a6c0c277d9b08b1344eabbd7f69035/DetailedServerTooltips.plugin.js"
 }

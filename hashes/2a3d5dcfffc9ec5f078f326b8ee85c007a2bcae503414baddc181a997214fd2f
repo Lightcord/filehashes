@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Adjustable Server Width"
+    "name": "Adjustable Server Width",
+    "src": "https://raw.githubusercontent.com/Gibbu/BetterDiscord-Themes/57706f2268b3fec990455fd2ec948ea88d45c49d/AdjustableServerWidth/AdjustableServerWidth.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterEmoteSizes"
+    "name": "BetterEmoteSizes",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/dcdbaf1c8b3adaefabec3a809cca037c518c5c66/BetterEmoteSizes.plugin.js"
 }

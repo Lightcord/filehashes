@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideMutedCategories"
+    "name": "HideMutedCategories",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/28fc94500166c4ba0c2ef262b9dd3f206ae5254e/Plugins/HideMutedCategories/HideMutedCategories.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MobileForAll"
+    "name": "MobileForAll",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/0ec44291d440b44a76efd81535457310139fa237/Plugins/MobileForAll/MobileForAll.plugin.js"
 }

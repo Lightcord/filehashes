@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterImageViewer"
+    "name": "BetterImageViewer",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/1bbadd57de7bfbd3f8d3cd06a235e42602f533ef/Plugins/BetterImageViewer/BetterImageViewer.plugin.js"
 }

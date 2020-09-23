@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Sneaks_Theme"
+    "name": "Sneaks_Theme",
+    "src": "https://raw.githubusercontent.com/motoenduroboy/BetterDiscord-Themes/d4858555458ff6d0f0ba9caaf8ad3bbe20094f85/release/master/sneaksTheme.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Thanksgiving"
+    "name": "Thanksgiving",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/45eb5bef3289f3b2e94dbdbcd7055ae4e989a082/Themes/Main/Thanksgiving.theme.css"
 }

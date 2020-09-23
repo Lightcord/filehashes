@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Blurple"
+    "name": "Blurple",
+    "src": "https://raw.githubusercontent.com/JimmyHere/Blurple/3cd58568055360be77296e0bc9558c2618d06da3/Blurple.theme.css"
 }

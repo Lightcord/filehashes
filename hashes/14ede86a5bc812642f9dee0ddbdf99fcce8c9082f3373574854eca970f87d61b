@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Discordify"
+    "name": "Discordify",
+    "src": "https://raw.githubusercontent.com/nirewen/Discordify/04013a32925237e3e1e62aa7f1822cce4d9ecda4/Discordify.theme.css"
 }

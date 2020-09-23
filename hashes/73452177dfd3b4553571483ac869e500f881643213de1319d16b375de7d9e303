@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "TMEME"
+    "name": "TMEME",
+    "src": "https://raw.githubusercontent.com/TheBaconSpace/TMEMETheme/a0cf31c67f82984090715f890e11d5610c55c054/tmeme.theme.css"
 }

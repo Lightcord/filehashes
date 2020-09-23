@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Deku_Theme"
+    "name": "Deku_Theme",
+    "src": "https://raw.githubusercontent.com/motoenduroboy/BetterDiscord-Themes/2107167ddb026ec1623acedce8ee1c64bb749e10/release/master/Deku.theme.css"
 }

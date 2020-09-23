@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Midnight UI"
+    "name": "Midnight UI",
+    "src": "https://raw.githubusercontent.com/Tropix126/BetterDiscordStuff/df094587f50853a987d4d354b72d04970cdc5d53/midnight/Midnight.theme.css"
 }

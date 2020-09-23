@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideServersChannelsRedux"
+    "name": "HideServersChannelsRedux",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/6bd530b25bdd0c44db55c338d859de3e0bc70678/ToastIntegrated/HideServersChannelsRedux/HideServersChannelsRedux.plugin.js"
 }

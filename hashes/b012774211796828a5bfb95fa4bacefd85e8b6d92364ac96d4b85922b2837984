@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterUnavailableGuilds"
+    "name": "BetterUnavailableGuilds",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/1f1f9318a85f751dc79628fc74e27bf79ce81851/Plugins/BetterUnavailableGuilds/BetterUnavailableGuilds.plugin.js"
 }

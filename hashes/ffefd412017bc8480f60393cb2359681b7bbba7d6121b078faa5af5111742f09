@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Temp_BD_Settings_and_Public_Servers_Fix"
+    "name": "Temp_BD_Settings_and_Public_Servers_Fix",
+    "src": "https://raw.githubusercontent.com/mrmaple240/betterdiscord-mini-themes/4940edc0e99797d172136598f74030ec63f45bab/TempBDSettingsPublicServersFix.theme.css"
 }

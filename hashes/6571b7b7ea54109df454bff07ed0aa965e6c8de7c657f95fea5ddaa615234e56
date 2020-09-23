@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "NotificationSounds"
+    "name": "NotificationSounds",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/0edc17ab54dd8fa9c0b36abfeeb7a943ca658fd0/Plugins/NotificationSounds/NotificationSounds.plugin.js"
 }

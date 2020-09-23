@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AvatarHover"
+    "name": "AvatarHover",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/4558e6e95881fa4e1c48ecac5b4506531a51e3cd/plugins/AvatarHover.plugin.js"
 }

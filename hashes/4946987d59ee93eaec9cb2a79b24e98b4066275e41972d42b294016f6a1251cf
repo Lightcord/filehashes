@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ServerHider"
+    "name": "ServerHider",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/2827b2e9e9741cb1ce1718f92a11e272cfb1d1f8/Plugins/ServerHider/ServerHider.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Show-URLs"
+    "name": "Show-URLs",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/44481900b28640f95e07493b688cc8bcf4e41130/themes/showURLs.theme.css"
 }

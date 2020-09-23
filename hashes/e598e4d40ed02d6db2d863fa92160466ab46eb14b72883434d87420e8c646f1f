@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "UnreadBadgesRedux"
+    "name": "UnreadBadgesRedux",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/2284acb4f17e33d313aec6f60f5f3ed3051043c3/Plugins/UnreadBadgesRedux/UnreadBadgesRedux.plugin.js"
 }

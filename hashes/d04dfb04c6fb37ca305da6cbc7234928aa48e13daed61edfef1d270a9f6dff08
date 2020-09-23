@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "EditUploads"
+    "name": "EditUploads",
+    "src": "https://raw.githubusercontent.com/qwerasd205/qwerasd205.github.io/f240f1f07ba414e7dba446cf60d916be50c3fb05/EditUploads.plugin.js"
 }

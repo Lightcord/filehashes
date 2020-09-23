@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "QuickInspector"
+    "name": "QuickInspector",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/32418fa1ce620fc86dab63b2da28a40435283437/QuickInspector/QuickInspector.plugin.js"
 }

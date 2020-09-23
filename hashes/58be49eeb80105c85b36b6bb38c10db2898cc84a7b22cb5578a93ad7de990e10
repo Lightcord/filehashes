@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Custom_Color_Accent"
+    "name": "Custom_Color_Accent",
+    "src": "https://raw.githubusercontent.com/Zerthox/Discord-Color-Accent/5da6b148917e0e1920010780eb1a856aaa32b555/CustomColorAccent.theme.css"
 }

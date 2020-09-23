@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "null"
+    "name": "null",
+    "src": "https://raw.githubusercontent.com/Modder4869/LazyStuff/dca32a56de2802a9daba61b91f379777258a9ec1/LazyMadeThemes/null.theme.css"
 }

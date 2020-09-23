@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "PinCollapsedChannels"
+    "name": "PinCollapsedChannels",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/e2abe4dd163820a5ca54847da51d3946271ffe41/PinCollapsedChannels.plugin.js"
 }

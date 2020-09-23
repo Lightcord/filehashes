@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "TransientMaterial"
+    "name": "TransientMaterial",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/cda08aab57dd11583f62895145e17dc1758bdea2/Themes/TransientMaterial/TransientMaterial.theme.css"
 }

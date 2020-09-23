@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "RevealAllSpoilersOption"
+    "name": "RevealAllSpoilersOption",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/30b887316a0dc4a8a53d8c23b9bdda85a25f8852/Plugins/RevealAllSpoilersOption/RevealAllSpoilersOption.plugin.js"
 }

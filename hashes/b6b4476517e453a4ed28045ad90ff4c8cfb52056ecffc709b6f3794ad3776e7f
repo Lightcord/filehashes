@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Mitsuki"
+    "name": "Mitsuki",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/1637ef047802a66af4603cf171ade545a1f11eff/Themes/Main/Mitsuki.theme.css"
 }

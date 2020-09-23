@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DarkDarkTheme"
+    "name": "DarkDarkTheme",
+    "src": "https://raw.githubusercontent.com/KyzaGitHub/Khub/34ba7c56f3ce9ce3f8b87fac47a90e5cf3ac0d47/Themes/DarkDarkTheme/DarkDarkTheme.plugin.js"
 }

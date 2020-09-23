@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "dateViewer"
+    "name": "dateViewer",
+    "src": "https://raw.githubusercontent.com/hammy1/BDStuff/963acb7fc3c9117037350cc374075cc58d48ecf6/Plugins/dateViewer/dateViewer.plugin.js"
 }

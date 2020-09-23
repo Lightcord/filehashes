@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ExtendedContextMenu"
+    "name": "ExtendedContextMenu",
+    "src": "https://raw.githubusercontent.com/qwerasd205/qwerasd205.github.io/216b35da295da8ddb95af827958b8741af38ce0b/ExtendedContextMenu.plugin.js"
 }

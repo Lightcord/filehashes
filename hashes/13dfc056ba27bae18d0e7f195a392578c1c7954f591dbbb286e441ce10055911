@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Experimental mini themes"
+    "name": "Experimental mini themes",
+    "src": "https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/cd80f39f0f8686423ac9724bee0ce211dc052820/Themes/MiniTheme.theme.css"
 }

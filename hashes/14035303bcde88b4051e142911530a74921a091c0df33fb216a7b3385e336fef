@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "CustomizableAvatarDPI"
+    "name": "CustomizableAvatarDPI",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/38c71f359b404337e60636d61c78dac3dc32e773/CustomizableAvatarDPI.plugin.js"
 }

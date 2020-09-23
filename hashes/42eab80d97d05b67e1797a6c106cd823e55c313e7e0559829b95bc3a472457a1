@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ServerDetails"
+    "name": "ServerDetails",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/ffdbdd8b4be3806f5291818a2ea05611c1ff9eea/Plugins/ServerDetails/ServerDetails.plugin.js"
 }

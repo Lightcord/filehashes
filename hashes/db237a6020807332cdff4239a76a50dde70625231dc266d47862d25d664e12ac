@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SteamProfileLink"
+    "name": "SteamProfileLink",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/97bf34de7dac12c5eab8a390869ba043e0774d10/Plugins/SteamProfileLink/SteamProfileLink.plugin.js"
 }

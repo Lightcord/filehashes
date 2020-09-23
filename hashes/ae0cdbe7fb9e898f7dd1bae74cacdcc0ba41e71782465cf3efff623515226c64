@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Frosted Glass"
+    "name": "Frosted Glass",
+    "src": "https://raw.githubusercontent.com/Gibbu/BetterDiscord-Themes/0816d5bb11b3c799e49045d3752e857bd18c0c40/FrostedGlass/FrostedGlass.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterFolders"
+    "name": "BetterFolders",
+    "src": "https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/9f96b216839fd66e6a3b9ef70a991f01545ddeb4/v1/BetterFolders.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "TwitchChatV2"
+    "name": "TwitchChatV2",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/0769f9027678f0e99e95fa6328f8f636ad20c8b3/TwitchChatV2/TwitchChatV2.plugin.js"
 }

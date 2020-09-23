@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "OnlineFriendCount"
+    "name": "OnlineFriendCount",
+    "src": "https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/133119eb218932722c4b019729511dd2208d50e9/v1/OnlineFriendCount.plugin.js"
 }

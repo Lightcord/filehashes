@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DiscordCakeDay"
+    "name": "DiscordCakeDay",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/9d1959d55eafcc26376631055cd5c6608ffa44af/Plugins/DiscordCakeDay/DiscordCakeDay.plugin.js"
 }

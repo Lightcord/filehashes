@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Compact Server List"
+    "name": "Compact Server List",
+    "src": "https://raw.githubusercontent.com/qwerasd205/qwerasd205.github.io/49c9e74560d4081743de320fed791598aa349cf0/CompactServerList.theme.css"
 }

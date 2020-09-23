@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Esdeath"
+    "name": "Esdeath",
+    "src": "https://raw.githubusercontent.com/llcoll/Discord-Themes/fd9db499de9da95c2ddce6f61d676719be9559f4/Themes/Esdeath/Esdeath.theme.css"
 }

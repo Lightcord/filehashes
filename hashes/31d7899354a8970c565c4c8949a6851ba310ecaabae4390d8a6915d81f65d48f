@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MemberCount"
+    "name": "MemberCount",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/bb9b57daba217e461bf10399b377ec6e2bc85c53/ToastIntegrated/MemberCount/MemberCount.plugin.js"
 }

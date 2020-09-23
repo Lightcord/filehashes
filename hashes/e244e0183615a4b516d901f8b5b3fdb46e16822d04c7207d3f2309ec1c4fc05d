@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "GuildAndFriendRemovalAlerts"
+    "name": "GuildAndFriendRemovalAlerts",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/2a0bc38296976932cbde65323f5f9cbc886c46ea/GuildAndFriendRemovalAlerts.plugin.js"
 }

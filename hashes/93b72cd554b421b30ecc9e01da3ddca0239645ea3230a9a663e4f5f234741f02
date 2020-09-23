@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "PermissionsViewer"
+    "name": "PermissionsViewer",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/b2cac4e40acff89a3abca9f9c31e3f27c4d31312/Plugins/PermissionsViewer/PermissionsViewer.plugin.js"
 }

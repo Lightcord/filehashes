@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "BetterUnreadIndicators"
+    "name": "BetterUnreadIndicators",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/8cac1024e68cef23b7d3de399059af040183d4dd/Themes/BetterUnreadIndicators/BetterUnreadIndicators.theme.css"
 }

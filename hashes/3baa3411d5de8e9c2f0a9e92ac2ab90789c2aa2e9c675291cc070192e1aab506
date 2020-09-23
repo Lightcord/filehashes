@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "JSMaterialThemeCodeblocksRedux"
+    "name": "JSMaterialThemeCodeblocksRedux",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/0143721956c1dc53bd1d7704aac75dc2a3dddb9a/Miscellanious/jsMaterialThemeCodeblocks.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "NewNihilism"
+    "name": "NewNihilism",
+    "src": "https://raw.githubusercontent.com/ObserverOfTime/DiscordThemes/e3a9904ba659fa8a48b18416251ac3e29dc4ad65/NewNihilism/dist/NewNihilism.theme.css"
 }

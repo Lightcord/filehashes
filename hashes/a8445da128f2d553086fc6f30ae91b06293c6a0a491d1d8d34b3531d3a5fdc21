@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "QuickMention"
+    "name": "QuickMention",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/a619af5fdca40151d09423bef2508cecb1ded91d/Plugins/QuickMention/QuickMention.plugin.js"
 }

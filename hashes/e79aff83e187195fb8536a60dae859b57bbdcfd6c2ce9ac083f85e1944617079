@@ -1,5 +1,6 @@
 {
     "type": "Theme",
     "name": "Popup settings",
-    "official": true
+    "official": true,
+    "src": "https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/fc477f658f4a825f13b687f5ad44c8c7f5cebd62/Themes/SettingPopout/SettingPopout.theme.css"
 }

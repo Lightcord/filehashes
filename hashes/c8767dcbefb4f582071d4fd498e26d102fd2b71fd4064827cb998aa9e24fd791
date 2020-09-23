@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "Emulator"
+    "name": "Emulator",
+    "src": "https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/7fd73e185a3c5021aef4a48582bf82f79b60c1e5/v1/Emulator.plugin.js"
 }

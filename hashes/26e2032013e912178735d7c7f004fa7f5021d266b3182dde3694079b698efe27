@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Material_Icons"
+    "name": "Material_Icons",
+    "src": "https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/41f52675e79b255493ec4cc4ba42d27e94b63dd7/Material_Icon.theme.css"
 }

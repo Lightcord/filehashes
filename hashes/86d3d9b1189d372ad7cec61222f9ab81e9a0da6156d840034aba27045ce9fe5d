@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "UserBirthdays"
+    "name": "UserBirthdays",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/d6ebe579d58a3dc8f9c6ee54fe2444453ea5ba3d/UserBirthdays.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "greentext"
+    "name": "greentext",
+    "src": "https://raw.githubusercontent.com/kaloncpu57/discord-plugins/fe61a306dbd74a915ea0c4ad42bc006db85f0a2c/greentext.plugin.js"
 }

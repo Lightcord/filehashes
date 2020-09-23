@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "CrashRecovery"
+    "name": "CrashRecovery",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/eb2b60b7b844a68d58ee69b534706eab7bc80ab2/Plugins/CrashRecovery/CrashRecovery.plugin.js"
 }

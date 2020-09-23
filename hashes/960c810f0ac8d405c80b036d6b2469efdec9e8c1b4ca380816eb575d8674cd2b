@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BlurNSFW"
+    "name": "BlurNSFW",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/be475633eccfc683fafb4aec8e4c791e555e966c/Plugins/BlurNSFW/BlurNSFW.plugin.js"
 }

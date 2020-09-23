@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "GameActivityToggle"
+    "name": "GameActivityToggle",
+    "src": "https://raw.githubusercontent.com/Egrodo/DiscordPlugins/1f2e671c35e9af30e6222f64877399c5b9e985b7/GameActivityToggle.plugin.js"
 }

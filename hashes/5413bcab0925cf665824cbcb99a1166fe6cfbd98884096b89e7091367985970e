@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "PatrioticTheme"
+    "name": "PatrioticTheme",
+    "src": "https://raw.githubusercontent.com/HansAnonymous/BD-Themes-and-Plugins/6fd6f1fa9ae764a9544db8ef59fb7394c23062f3/Themes/Patriotic/Patriotic.theme.css"
 }

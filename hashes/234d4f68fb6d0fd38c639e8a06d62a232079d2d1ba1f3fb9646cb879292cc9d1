@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "The_Doc"
+    "name": "The_Doc",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/335a4d53b2ef3957037317f27916113cb409fa25/Themes/Main/The_Doc.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "EmojiStatistics"
+    "name": "EmojiStatistics",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/be2599e61f8c523d3bd6e591f484ee74d7e37715/Plugins/EmojiStatistics/EmojiStatistics.plugin.js"
 }

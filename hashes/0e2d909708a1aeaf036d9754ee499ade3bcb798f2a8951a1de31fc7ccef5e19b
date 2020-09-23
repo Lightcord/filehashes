@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ReactionImages"
+    "name": "ReactionImages",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/4a25aaf61aeea84f41dafd7f09070cf85e7739fc/ReactionImages.plugin.js"
 }

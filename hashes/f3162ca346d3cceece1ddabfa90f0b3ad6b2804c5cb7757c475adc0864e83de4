@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Popout Overhaul"
+    "name": "Popout Overhaul",
+    "src": "https://raw.githubusercontent.com/HighGuard/discord-popout-overhaul-theme/f72697a5bace4ab4aa976d530f4c45f2f61acf42/popoutOverhaul.theme.css"
 }

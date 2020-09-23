@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "HideDisabledEmojis"
+    "name": "HideDisabledEmojis",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/3d24b362b755767debee483f5b1f812b6263ca84/Plugins/HideDisabledEmojis/HideDisabledEmojis.plugin.js"
 }

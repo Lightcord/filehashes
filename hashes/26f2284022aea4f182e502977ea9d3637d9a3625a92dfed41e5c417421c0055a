@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Retro"
+    "name": "Retro",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/a959e52666cff269af789a3dffda2aa03ae2db58/Themes/Main/Retro.theme.css"
 }

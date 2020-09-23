@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ServerFolders"
+    "name": "ServerFolders",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/06256d3a1b9746cbab2c78c9f48b8c89d5fa0a82/Plugins/ServerFolders/ServerFolders.plugin.js"
 }

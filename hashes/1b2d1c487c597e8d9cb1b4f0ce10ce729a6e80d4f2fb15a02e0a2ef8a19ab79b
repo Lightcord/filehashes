@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "MinimalCord"
+    "name": "MinimalCord",
+    "src": "https://raw.githubusercontent.com/ivanivamar/Discord/d58b6851caa1b3626d4f5055b012038bea3fe505/MinimalCord.theme.css"
 }

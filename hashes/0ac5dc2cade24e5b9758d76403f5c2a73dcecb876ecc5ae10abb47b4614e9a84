@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Opacity"
+    "name": "Opacity",
+    "src": "https://raw.githubusercontent.com/Pierce01/Opacity/90421e01a8073affb6791df94196131c67395627/OpacityMaxBun.theme.css"
 }

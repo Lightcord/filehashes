@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Compact-User-List"
+    "name": "Compact-User-List",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/8ddfc56f3f90ffe58e7896efc519be7356962ee4/themes/compactUserList.theme.css"
 }

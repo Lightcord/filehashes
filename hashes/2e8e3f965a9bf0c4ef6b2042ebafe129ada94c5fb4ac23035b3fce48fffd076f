@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterReplyer"
+    "name": "BetterReplyer",
+    "src": "https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/d747b83c4efe93dcc7a5d51ba918d65df56e486a/v1/BetterReplyer.plugin.js"
 }

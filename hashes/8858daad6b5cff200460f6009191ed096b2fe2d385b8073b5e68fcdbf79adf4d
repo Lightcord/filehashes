@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "EzLight"
+    "name": "EzLight",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/d15066fa813f52453cd137fe22529b440732c47a/themes/EzLight.theme.css"
 }

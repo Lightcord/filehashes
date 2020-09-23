@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Casual Dark"
+    "name": "Casual Dark",
+    "src": "https://raw.githubusercontent.com/Quietess/Casual-Dark/ce71705e81d2d1fd8788ad73c3b553e723550ee0/Casual_Dark.theme.css"
 }

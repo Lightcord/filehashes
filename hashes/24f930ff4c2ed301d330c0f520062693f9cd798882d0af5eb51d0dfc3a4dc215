@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterNsfwTag"
+    "name": "BetterNsfwTag",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/ca77b08a2f848592d22756bf217d7789f7f6f55c/Plugins/BetterNsfwTag/BetterNsfwTag.plugin.js"
 }

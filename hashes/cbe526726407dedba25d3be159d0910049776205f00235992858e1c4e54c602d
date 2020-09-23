@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Frosted glass Rewrite"
+    "name": "Frosted glass Rewrite",
+    "src": "https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/a9a3d75417ce28e34b030c66aa472c66f21eec87/Themes/FrostedGlassRewrite.theme.css"
 }

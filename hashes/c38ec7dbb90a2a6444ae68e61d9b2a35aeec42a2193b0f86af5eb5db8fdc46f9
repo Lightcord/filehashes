@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ChatFilter"
+    "name": "ChatFilter",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/bb767e59bd97f10354c418ab1578db2d66152506/Plugins/ChatFilter/ChatFilter.plugin.js"
 }

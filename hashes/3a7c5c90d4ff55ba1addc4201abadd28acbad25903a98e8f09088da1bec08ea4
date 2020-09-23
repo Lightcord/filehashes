@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Dark Discord"
+    "name": "Dark Discord",
+    "src": "https://raw.githubusercontent.com/hormelcookies/dark-discord/845d968e67b2c5422b911727df3aae10ab7a2ce3/DarkDiscord.theme.css"
 }

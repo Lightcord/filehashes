@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "User_Popout"
+    "name": "User_Popout",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/3959e06a420aa6e917dafd1ae9e645c0e3e1829a/Themes/Mini/User_Popout.theme.css"
 }

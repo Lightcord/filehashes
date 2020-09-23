@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DisplayLargeMessages"
+    "name": "DisplayLargeMessages",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/9c6c6c661a11482dfd36b692d8bb9baeb2eb1f9f/Plugins/DisplayLargeMessages/DisplayLargeMessages.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterFormattingRedux"
+    "name": "BetterFormattingRedux",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/abed980e8981ca6a0a407aec8326ecfd4abee0d0/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js"
 }

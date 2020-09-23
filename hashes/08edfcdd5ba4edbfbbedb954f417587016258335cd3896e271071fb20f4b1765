@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterQuoter"
+    "name": "BetterQuoter",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/32ca60ba1ae3f8aadc033fb4a23f8c521a6c051a/BetterQuoter/BetterQuoter.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "OpenLinksInDiscord"
+    "name": "OpenLinksInDiscord",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/c9c70abef4de156aa4d3a57087369e0add4a42c6/OpenLinksInDiscord.plugin.js"
 }

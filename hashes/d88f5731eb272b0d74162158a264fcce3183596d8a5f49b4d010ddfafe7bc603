@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "RoleMembers"
+    "name": "RoleMembers",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/63481f6d48cac4cfdf6baf61e4a31f1a5b54f64b/Plugins/RoleMembers/RoleMembers.plugin.js"
 }

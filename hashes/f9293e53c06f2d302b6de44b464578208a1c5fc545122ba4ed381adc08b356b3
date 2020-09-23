@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Tranquil"
+    "name": "Tranquil",
+    "src": "https://raw.githubusercontent.com/monstrousdev/themes/7d4aeaa05f2a654c28b99de9dabfd2b90d5a213c/theme-files/Tranquil.theme.css"
 }

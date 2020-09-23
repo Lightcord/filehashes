@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "OldTitleBar"
+    "name": "OldTitleBar",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/133a72eea51364cd2de2a81ab295bf71d3d15747/Plugins/OldTitleBar/OldTitleBar.plugin.js"
 }

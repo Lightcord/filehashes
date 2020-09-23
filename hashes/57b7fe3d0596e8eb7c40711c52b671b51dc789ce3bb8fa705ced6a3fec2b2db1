@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "silentTyping"
+    "name": "silentTyping",
+    "src": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/3f7077e54be9f2ae24d74c5b4874fe33250097e7/SilentTyping.plugin.js"
 }

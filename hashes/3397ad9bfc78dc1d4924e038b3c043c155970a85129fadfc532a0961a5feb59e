@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DoubleClickVoiceChannels"
+    "name": "DoubleClickVoiceChannels",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/9e76650be9b8b5f2e6974348746a7c3f26b1cd6b/DoubleClickVoiceChannels.plugin.js"
 }

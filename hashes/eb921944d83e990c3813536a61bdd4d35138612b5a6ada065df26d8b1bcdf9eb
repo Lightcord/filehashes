@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "RelationshipCounter"
+    "name": "RelationshipCounter",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/960e765760344bf2376a177b555056e38bd53c0f/RelationshipCounter/RelationshipCounter.plugin.js"
 }

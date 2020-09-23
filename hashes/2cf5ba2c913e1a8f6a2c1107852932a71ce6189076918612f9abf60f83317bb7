@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "VoiceEvents"
+    "name": "VoiceEvents",
+    "src": "https://raw.githubusercontent.com/Zerthox/BetterDiscord-Plugins/638c1f8bde3cd09e99ab9a455a6d2e69884e7a16/v1/VoiceEvents.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Horizontal_Serverlist"
+    "name": "Horizontal_Serverlist",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/6291ff0bd9db9c7f730a3047e823f0d65bd36749/themes/horizontalServerlist.theme.css"
 }

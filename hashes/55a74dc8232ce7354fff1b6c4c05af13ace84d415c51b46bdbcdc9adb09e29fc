@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "Minespoiler"
+    "name": "Minespoiler",
+    "src": "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/e3af05318d1e23e932ab7b650fa07e5f09d2fd2f/Plugins/Minespoiler/Minespoiler.plugin.js"
 }

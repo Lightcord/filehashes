@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MessageTimestampsRedux"
+    "name": "MessageTimestampsRedux",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/e0c0ca9e98b8c00ebaf340db5d289418dcf4e0e1/ToastIntegrated/MessageTimestampsRedux/MessageTimestampsRedux.plugin.js"
 }

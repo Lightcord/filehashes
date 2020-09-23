@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Avis Theme"
+    "name": "Avis Theme",
+    "src": "https://raw.githubusercontent.com/YuraBrm/BetterDiscordThemes/d13a9e9c877d242e1516ff3300eef0f51fc0620e/Avis/Avis.theme.css"
 }

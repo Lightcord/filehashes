@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "localFileServer"
+    "name": "localFileServer",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/0a284a75f4b958884b9f7e316a6025ec5c714a1a/plugins/localFileServer.plugin.js"
 }

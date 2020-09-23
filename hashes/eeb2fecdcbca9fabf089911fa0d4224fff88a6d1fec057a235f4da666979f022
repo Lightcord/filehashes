@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterTypingUsers"
+    "name": "BetterTypingUsers",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/e6b93a9de45cbe6503e3e8771dececa96afaba51/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "BetterImagePopups"
+    "name": "BetterImagePopups",
+    "src": "https://raw.githubusercontent.com/Orrielel/BetterDiscordAddons/fc362f9631166af81eab3553ef949b846db8a21e/Plugins/BetterImagePopups/BetterImagePopups.plugin.js"
 }

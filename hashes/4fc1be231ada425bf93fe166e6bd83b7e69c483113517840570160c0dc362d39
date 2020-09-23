@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "MiniTheme"
+    "name": "MiniTheme",
+    "src": "https://raw.githubusercontent.com/TheWrestlingDiscordia/MiniTheme/69ef99bab95266d68a81d4249823a33df204edc2/MiniTheme.theme.css"
 }

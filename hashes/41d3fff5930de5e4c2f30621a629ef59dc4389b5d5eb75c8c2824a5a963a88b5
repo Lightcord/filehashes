@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "SendLargeMessages"
+    "name": "SendLargeMessages",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/d315b885a93dc0860f4cf7c305cf76976ecff00c/Plugins/SendLargeMessages/SendLargeMessages.plugin.js"
 }

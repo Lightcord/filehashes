@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "directDownload"
+    "name": "directDownload",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/c608a6c86a37a6b02da78e941f45609c3363a6b7/plugins/directDownload.plugin.js"
 }

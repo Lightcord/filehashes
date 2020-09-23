@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Popout_Text_And_Voice"
+    "name": "Popout_Text_And_Voice",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/c9adfcc687865c511901ac86c9a73f545566908e/Themes/Mini/Popout_Text_And_Voice.theme.css"
 }

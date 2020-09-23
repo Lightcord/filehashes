@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AccountDetailsPlus"
+    "name": "AccountDetailsPlus",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/7ab711e29d11b88b18a91bd183420af0dbe67d37/Plugins/AccountDetailsPlus/AccountDetailsPlus.plugin.js"
 }

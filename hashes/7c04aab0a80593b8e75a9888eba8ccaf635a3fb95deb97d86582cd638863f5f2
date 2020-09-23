@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "VoiceChatNotifications"
+    "name": "VoiceChatNotifications",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/9c21f2a743ed3cb8f644307eec4087f3a28a5990/VoiceChatNotifications.plugin.js"
 }

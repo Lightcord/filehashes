@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Nocturnal"
+    "name": "Nocturnal",
+    "src": "https://raw.githubusercontent.com/codedotspectra/themes/efe2456409c06d87ad31f61a6f222cfbe2a28135/nocturnal/nocturnal.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Metro for Discord"
+    "name": "Metro for Discord",
+    "src": "https://raw.githubusercontent.com/TakosThings/Metro-for-Discord/6c02234029f03bb690453419855bab6a22c1d97e/dist/Metro_for_Discord.theme.css"
 }

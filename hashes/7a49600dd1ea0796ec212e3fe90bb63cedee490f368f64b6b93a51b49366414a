@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "discordExperiments"
+    "name": "discordExperiments",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/00e980f6980c6f141ae5eaa5deaadc18ae730184/plugins/discordexperiments.plugin.js"
 }

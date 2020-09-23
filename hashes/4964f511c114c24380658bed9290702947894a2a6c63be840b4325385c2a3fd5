@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "TransitioningBackgrounds"
+    "name": "TransitioningBackgrounds",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/13fbab20d2d8de5468cc4c7f7de1fc09bbe670dc/TransitioningBackgrounds.plugin.js"
 }

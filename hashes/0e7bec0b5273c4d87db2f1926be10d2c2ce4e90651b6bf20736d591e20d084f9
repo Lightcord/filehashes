@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AutoCorrectV2"
+    "name": "AutoCorrectV2",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/2ad89cae2ecba848483b9eb015e2fb7c0e6bb6cb/AutoCorrectV2/AutoCorrectV2.plugin.js"
 }

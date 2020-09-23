@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Aurora"
+    "name": "Aurora",
+    "src": "https://raw.githubusercontent.com/Tropix126/BetterDiscordStuff/146b7b27168289c9adbdae07ce47209e9e9de16b/aurora/Aurora.theme.css"
 }

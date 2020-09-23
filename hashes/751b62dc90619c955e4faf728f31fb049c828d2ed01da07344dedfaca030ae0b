@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "ChilledCyan"
+    "name": "ChilledCyan",
+    "src": "https://raw.githubusercontent.com/Mixter213/Discord/b6687e6ba86c5a72017e3995f5fa472af0a1a177/Theme/Cyan.theme.css"
 }

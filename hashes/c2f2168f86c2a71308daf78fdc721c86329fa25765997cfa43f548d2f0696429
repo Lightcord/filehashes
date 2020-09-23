@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Rust-Theme"
+    "name": "Rust-Theme",
+    "src": "https://raw.githubusercontent.com/motoenduroboy/BetterDiscord-Themes/893de8db22a16846160a790fe5af30143aeff511/release/master/rust.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "minimizeShortcut"
+    "name": "minimizeShortcut",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/66086b87bbd6ab2e8aecd7edc70c93e192442b9e/plugins/minimizeShortcut.plugin.js"
 }

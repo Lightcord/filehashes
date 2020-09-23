@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "MessageLinkEmbed"
+    "name": "MessageLinkEmbed",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/aa6b7e9b92eee5d3dc8894f87cdcfd7cf10a0a1f/MessageLinkEmbed/MessageLinkEmbed.plugin.js"
 }

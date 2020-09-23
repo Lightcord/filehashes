@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "typingSoundPlugin"
+    "name": "typingSoundPlugin",
+    "src": "https://raw.githubusercontent.com/blockba5her/betterdiscord-plugins/2717e7e9083c61cf97a26866142417933a7cfe46/plugins/typingsound.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "TopRoleEverywhere"
+    "name": "TopRoleEverywhere",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/139514bb5bb9b706120429aaadbe53d78046715f/Plugins/TopRoleEverywhere/TopRoleEverywhere.plugin.js"
 }

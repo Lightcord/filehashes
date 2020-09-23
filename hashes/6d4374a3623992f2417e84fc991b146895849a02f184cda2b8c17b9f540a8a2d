@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Witcher3"
+    "name": "Witcher3",
+    "src": "https://raw.githubusercontent.com/jadeonking/WitcherCord/b17703509f5a2f01ac05feee4585d78546fe3ee3/Themes/Witcher3.theme.css"
 }

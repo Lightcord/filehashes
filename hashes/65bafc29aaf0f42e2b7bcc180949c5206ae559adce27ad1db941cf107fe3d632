@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Rainbow_Kitten_online"
+    "name": "Rainbow_Kitten_online",
+    "src": "https://raw.githubusercontent.com/Azagwen/Rainbow_kittens_theme/e96d007c301bf9f1f2f7e4df060a6ecadcf60ee0/Rainbow_kittens_2.0_online.theme.css"
 }

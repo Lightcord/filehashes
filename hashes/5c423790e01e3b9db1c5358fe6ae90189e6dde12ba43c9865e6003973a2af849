@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "VoiceUsersCounter"
+    "name": "VoiceUsersCounter",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/a78eff74be41e88bc0954dfc9ae2a0bf6496c1fb/VoiceUsersCounter/VoiceUsersCounter.plugin.js"
 }

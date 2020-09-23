@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ResizableCSS"
+    "name": "ResizableCSS",
+    "src": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/37d63cfa77f30d3e6179cfcd9688f9caba736b9e/Plugins/ResizableCSS/ResizableCSS.plugin.js"
 }

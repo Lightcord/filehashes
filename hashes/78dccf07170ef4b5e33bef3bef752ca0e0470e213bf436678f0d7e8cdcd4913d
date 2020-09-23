@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Portal_Blue"
+    "name": "Portal_Blue",
+    "src": "https://raw.githubusercontent.com/NFLD99/Better-Discord/0a3cb14d551cf803be8120f17f33a6e3abaafaed/Themes/Main/Portal_Blue.theme.css"
 }

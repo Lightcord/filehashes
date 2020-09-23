@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Full_Light_Theme"
+    "name": "Full_Light_Theme",
+    "src": "https://raw.githubusercontent.com/mrmaple240/Full-Light-Theme/ac38de7086e1f4d2ba790e36e8a0151342094ae3/FullLightTheme.theme.css"
 }

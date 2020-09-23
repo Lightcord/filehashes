@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Nox"
+    "name": "Nox",
+    "src": "https://raw.githubusercontent.com/rauenzi/Nox/374ec0b7fac93792c71ba1069584daaeb9311862/release/Nox.theme.css"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "NieR: Automata UI IMPORT"
+    "name": "NieR: Automata UI IMPORT",
+    "src": "https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/8f40f7cd6f60cc3168870f84d005b6a85559d1d3/NieR-Automata-UI-import.theme.css"
 }

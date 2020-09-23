@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "TypingIndicator"
+    "name": "TypingIndicator",
+    "src": "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/b4dba18cf274f741b936eca5586379fa7dd50b4f/Plugins/TypingIndicator/TypingIndicator.plugin.js"
 }

@@ -2,5 +2,6 @@
     "harm": "Blacklist: Selfbot",
     "name": "BotNeckPlugin",
     "suspect": true,
-    "type": "Plugin"
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/AtiLion/BotNeck-Bot/7991305b0c1f809f044ebf9f3b6aa1c66dc02f33/BotNeck.plugin.js"
 }

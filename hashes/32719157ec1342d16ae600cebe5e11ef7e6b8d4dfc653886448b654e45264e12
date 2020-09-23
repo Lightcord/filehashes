@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "MinimalImprovementBorderless"
+    "name": "MinimalImprovementBorderless",
+    "src": "https://raw.githubusercontent.com/Juicysteak117/MinimalImprovement/8c79b8b3ecdbaffe0884b29cae698177d0de5bf6/MinimalImprovementBorderless.theme.css"
 }

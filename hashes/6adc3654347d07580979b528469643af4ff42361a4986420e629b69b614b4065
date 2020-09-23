@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "AutoStartRichPresence"
+    "name": "AutoStartRichPresence",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/a1a54f73c5a739db06e0efca13f3d08dba6b2ae7/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js"
 }

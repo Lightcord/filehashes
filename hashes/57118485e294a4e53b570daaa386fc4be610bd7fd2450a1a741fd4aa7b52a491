@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "PersonalPins"
+    "name": "PersonalPins",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/1c1bffd6517eb8cf45f5664c8c224bb57eb581d1/Plugins/PersonalPins/PersonalPins.plugin.js"
 }

@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "EmojiReplace"
+    "name": "EmojiReplace",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/0f6006219289558c87f51c7ab9724b8208200232/Themes/EmojiReplace/EmojiReplace.theme.css"
 }

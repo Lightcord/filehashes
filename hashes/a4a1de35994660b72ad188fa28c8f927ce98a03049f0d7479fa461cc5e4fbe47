@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Akame"
+    "name": "Akame",
+    "src": "https://raw.githubusercontent.com/llcoll/Discord-Themes/0d33e52e68a1eecc047ed1016a9408891da34f21/Themes/Akame/Akame.theme.css"
 }

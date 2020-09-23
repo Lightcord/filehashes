@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "DefaultChannels"
+    "name": "DefaultChannels",
+    "src": "https://raw.githubusercontent.com/planetarian/BetterDiscordPlugins/9269894d67d59d086c4595ae9035e0516055ad41/DefaultChannels.plugin.js"
 }

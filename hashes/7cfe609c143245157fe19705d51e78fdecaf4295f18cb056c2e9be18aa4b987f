@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ChatUserIDsRedux"
+    "name": "ChatUserIDsRedux",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/cf2fe7f35ed253c7486145b36461e1b4c1152e97/ToastIntegrated/ChatUserIDsRedux/ChatUserIDsRedux.plugin.js"
 }

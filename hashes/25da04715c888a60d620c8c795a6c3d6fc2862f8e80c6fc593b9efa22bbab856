@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "ForceImagePreviews"
+    "name": "ForceImagePreviews",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/5ebbba15ff4ef97b1018ed1952145cb0147025ad/Plugins/ForceImagePreviews/ForceImagePreviews.plugin.js"
 }

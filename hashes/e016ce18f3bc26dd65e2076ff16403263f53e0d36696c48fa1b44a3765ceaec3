@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "p_1lib_discord_internals"
+    "name": "p_1lib_discord_internals",
+    "src": "https://raw.githubusercontent.com/samogot/betterdiscord-plugins/0575ee8892887caa6ca46a94f986e6972cf2a9e3/v1/1lib_discord_internals.plugin.js"
 }

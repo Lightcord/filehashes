@@ -1,4 +1,5 @@
 {
     "type": "Plugin",
-    "name": "LineNumbersRedux"
+    "name": "LineNumbersRedux",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/4ca1963036e5c235a3d3d3cc8c504465dd6c11be/ToastIntegrated/LineNumbersRedux/LineNumbersRedux.plugin.js"
 }
