@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "SpellCheck",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/a27184cb439d494e522af1e5f00bd8b82fcb30d5/Plugins/SpellCheck/SpellCheck.plugin.js"
+}

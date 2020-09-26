@@ -22,6 +22,7 @@ https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/MessageLoggerV2.
 https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js
 https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/DetailedServerTooltips.plugin.js
 https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/HideChannels.plugin.js
+https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/PinPluginsAndThemes.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AlwaysMentionEveryone/AlwaysMentionEveryone.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/ColorSighted/ColorSighted.plugin.js

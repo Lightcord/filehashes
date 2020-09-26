@@ -17,67 +17,126 @@ sources.forEach(async (src, i) => {
         src = src.slice(1).split(" - ")[0]
     }
     console.log(src)
-    let parts = src.match(/^https\:\/\/raw\.githubusercontent\.com\/([\w\d-\.]+\/[\w\d-\.]+)\/([\.\w\d-]+)([^\n]+)$/)
-    if(!parts)return // didn't match a github link
-    const repo = parts[1]
-    const branch = parts[2]
-    const path = parts[3]
-    let apiUrl = `https://api.github.com/repos/${repo}/commits?sha=${branch}&path=${path}`
-
-    fetch(apiUrl, {
-        headers: {
-            "User-Agent": "Lightcord-Filehashes/1.0",
-            Authorization: "token "+ghToken
-        }
-    })
-    .then(async res => {
-        if(res.status !== 200)return console.error(`\x1b[31m${apiUrl} returned ${res.status}.\x1b[0m`)
-        const commits = await res.json()
-        commits.forEach(comm => {
-            fetch(`https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`)
-            .then(async res => {
-                if(res.status !== 200)return console.error(`\x1b[31m${repo}/${comm.sha}${path} returned ${res.status}.\x1b[0m`)
-                const body = await res.buffer()
-                const hash = crypto.createHash("sha256").update(body).digest("hex")
-                const type = src.endsWith(".js") ? "Plugin" : "Theme"
-                const options = parseMeta(body.toString("utf8"))
+    for(let provider of providers){
+        let parts = src.match(provider.pattern)
+        if(!parts)continue // didn't match pattern
         
-                console.log(`\x1b[32m${src.replace("https://raw.githubusercontent.com/", "")}: \x1b[33m${hash}\x1b[0m`)
-                if(fs.existsSync(__dirname+"/hashes/"+hash)){
-                    const data = JSON.parse(fs.readFileSync(__dirname+"/hashes/"+hash, "utf-8"))
-                    if(!!data.suspect !== blacklist){
-                        console.log(`Switching ${repo}/${comm.sha}${path} to ${!data.suspect}`)
-                    }else return
-                }
-
-                if(blacklist){
-                    fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-                        harm: "Blacklist: "+blacklistReason,
-                        name: options.displayName || options.name,
-                        suspect: true,
-                        type,
-                        src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
-                    }, null, "    "))
-                }else{
-                    if(src.includes("Lightcord/BetterDiscordAddons")){// official
+        provider.fetchCommits(parts)
+        .then(commits => {
+            if(commits.length === 0){
+                console.error(`\x1b[31mFound ${commits.length} commits for ${src}.\x1b[0m`)
+            }else{
+                console.log(`\x1b[32mFound ${commits.length} commits for ${src}.\x1b[0m`)
+            }
+            commits.forEach(comm => {
+                const rawURL = provider.getRawURL(src, parts, comm)
+                fetch(rawURL)
+                .then(async res => {
+                    if(res.status !== 200)return console.error(`\x1b[31m${rawURL} returned ${res.status}.\x1b[0m`)
+                    const body = await res.buffer()
+                    const hash = crypto.createHash("sha256").update(body).digest("hex")
+                    const type = src.endsWith(".js") ? "Plugin" : "Theme"
+                    const meta = parseMeta(body.toString("utf8"))
+            
+                    console.log(`\x1b[32m${src.replace(provider.rawURLBase, "")}: \x1b[33m${hash}\x1b[0m`)
+                    if(fs.existsSync(__dirname+"/hashes/"+hash)){
+                        const data = JSON.parse(fs.readFileSync(__dirname+"/hashes/"+hash, "utf-8"))
+                        if(!!data.suspect !== blacklist){
+                            console.log(`Switching ${rawURL} to ${!data.suspect} suspect`)
+                        }else return
+                    }
+    
+                    if(blacklist){
                         fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                            harm: "Blacklist: "+blacklistReason,
+                            name: meta.displayName || meta.name,
+                            suspect: true,
                             type,
-                            name: options.displayName || options.name,
-                            official: true,
-                            src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
+                            src: rawURL
                         }, null, "    "))
                     }else{
-                        fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-                            type,
-                            name: options.displayName || options.name,
-                            src: `https://raw.githubusercontent.com/${repo}/${comm.sha}${path}`
-                        }, null, "    "))
+                        if(src.includes("Lightcord/BetterDiscordAddons")){// official
+                            fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                                type,
+                                name: meta.displayName || meta.name,
+                                official: true,
+                                src: rawURL
+                            }, null, "    "))
+                        }else{
+                            fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
+                                type,
+                                name: meta.displayName || meta.name,
+                                src: rawURL
+                            }, null, "    "))
+                        }
                     }
-                }
-            }).catch(console.error)
-        })
-    }).catch(console.error)
+                }).catch(console.error)
+            })
+        }).catch(console.error)
+        return
+    }
+    console.log(`\x1b[31mCouldn't find a provider for ${src}\x1b[0m`)
 })
+
+const providers = [
+    {
+        name: "Github",
+        pattern: /^https\:\/\/raw\.githubusercontent\.com\/([\w\d\-\.]+\/[\w\d\-\.]+)\/([\.\w\d-]+)([^\n]+)$/,
+        async fetchCommits(parts){
+            const repo = parts[1]
+            const branch = parts[2]
+            const path = parts[3]
+
+            const apiUrl = `https://api.github.com/repos/${repo}/commits?sha=${branch}&path=${path}`
+            const res = await fetch(apiUrl, {
+                headers: {
+                    "User-Agent": "Lightcord-Filehashes/1.0",
+                    Authorization: "token "+ghToken
+                }
+            }).catch(err => err)
+            
+            if(res.status !== 200 || res instanceof Error)throw new Error(`\x1b[31m${apiUrl} returned ${res && res.message || res.status}.\x1b[0m`)
+            const commits = await res.json()
+
+            return commits
+        },
+        getRawURL(src, parts, commit){
+            const repo = parts[1]
+            const path = parts[3]
+            return `https://raw.githubusercontent.com/${repo}/${commit.sha}${path}`
+        },
+        rawURLBase: "https://raw.githubusercontent.com/"
+    },
+    {
+        name: "GitLab",
+        pattern: /^https:\/\/gitlab\.com\/([\w\d\-\.]+\/[\w\d\-\.]+)\/(\-\/)?raw\/([\.\w\d-]+)([^\n]+)$/,
+        async fetchCommits(parts){
+            const repo = parts[1]
+            const branch = parts[3]
+            const path = parts[4]
+
+            const apiUrl = `https://gitlab.com/api/v4/projects/${encodeURIComponent(repo)}/repository/commits?ref_name=${branch}&all=true`
+            console.log(apiUrl)
+            const res = await fetch(apiUrl, {
+                headers: {
+                    "User-Agent": "Lightcord-Filehashes/1.0"
+                }
+            }).catch(err => err)
+            
+            if(res.status !== 200 || res instanceof Error)throw new Error(`\x1b[31m${apiUrl} returned ${res && res.message || res.status}.\x1b[0m`)
+            const commits = await res.json()
+
+            return commits
+        },
+        getRawURL(src, parts, commit){
+            const repo = parts[1]
+            const branch = parts[3]
+            const path = parts[4]
+            return `https://gitlab.com/${repo}/-/raw/${commit.id}${path}`
+        },
+        rawURLBase: "https://gitlab.com/"
+    }
+]
 
 
 /** Theses functions were taken from the BetterDiscordApp scripts. */
