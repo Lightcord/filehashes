@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "QuickMuteChannels",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/12d17c0ca596a9d422403e4b08f8642453e14275/QuickMuteChannels/QuickMuteChannels.plugin.js"
+}
