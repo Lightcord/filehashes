@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "MessageLoggerV3",
+    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/f25c6914f827e20c42aad6657f94c906af4b0bac/public/plugins/MessageLoggerV2.plugin.js"
+}

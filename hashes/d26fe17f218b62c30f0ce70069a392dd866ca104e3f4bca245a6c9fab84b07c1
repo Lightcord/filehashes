@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "CharCounter",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/ccb8185a42b4e03873c5a253f9e393349422b0c7/Plugins/CharCounter/CharCounter.plugin.js"
+}
