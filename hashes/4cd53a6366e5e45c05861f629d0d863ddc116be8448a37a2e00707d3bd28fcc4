@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "InAppNotifications",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/758acdc196c223fd9f0151f7da89ea27be7ea39d/Plugins/InAppNotifications/InAppNotifications.plugin.js"
+}
