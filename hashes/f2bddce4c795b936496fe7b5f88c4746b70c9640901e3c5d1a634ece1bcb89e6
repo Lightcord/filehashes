@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "FreeEmojis",
+    "src": "https://gitlab.com/An0/discordfreeemojis/-/raw/68f342c38f63f54db698a4acb2396800f644cfe7/DiscordFreeEmojis.plugin.js"
+}
