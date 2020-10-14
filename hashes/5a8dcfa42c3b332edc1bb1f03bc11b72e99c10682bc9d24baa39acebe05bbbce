@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "AnimatedStatus",
+    "src": "https://raw.githubusercontent.com/toluschr/BetterDiscord-Animated-Status/d2b4688df967e539b57742230f05a7b37dac6ac7/animated-status.plugin.js"
+}

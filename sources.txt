@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/samogot/betterdiscord-plugins/master/v1/1lib_d
 https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/master/plugins/0circle.plugin.js
 
 ## Normal plugins
+https://raw.githubusercontent.com/toluschr/BetterDiscord-Animated-Status/master/animated-status.plugin.js
 https://raw.githubusercontent.com/An00nymushun/DiscordFreeEmojis/master/DiscordFreeEmojis64px.plugin.js
 https://raw.githubusercontent.com/An00nymushun/DiscordFreeEmojis/master/DiscordFreeEmojis.plugin.js
 https://raw.githubusercontent.com/l0c4lh057/AccountSwitcher/master/AccountSwitcher.plugin.js
