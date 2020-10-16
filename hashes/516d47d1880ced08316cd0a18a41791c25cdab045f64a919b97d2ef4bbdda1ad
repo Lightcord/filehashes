@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ZeresPluginLibrary",
+    "src": "https://raw.githubusercontent.com/1Lighty/BDPluginLibrary/d307529126f017a4513abebf40b378172699f821/release/0PluginLibrary.plugin.js"
+}
