@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "QuickDeleteMessages",
+    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/049ee867ce87a73f222ae2e862ef969fff27d6f7/public/plugins/QuickDeleteMessages.plugin.js"
+}
