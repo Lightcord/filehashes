@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "OpenSpotifylinksInSpotify,",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/f2ef24f4cc4108b33aaaaf0ab21987e3c9ffbde1/OpenSpotifylinksInSpotify/OpenSpotifylinksInSpotify.plugin.js"
+}
