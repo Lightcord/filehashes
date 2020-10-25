@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "MessageLoggerV2",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/8a589e829dda58e8293ac295937fcd0b993eb89a/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js"
+}
