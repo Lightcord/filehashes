@@ -149,6 +149,7 @@ https://raw.githubusercontent.com/blockba5her/betterdiscord-plugins/master/plugi
 https://raw.githubusercontent.com/KyzaGitHub/Khub/master/Plugins/YouTubePopouts/YouTubePopouts.plugin.js
 https://raw.githubusercontent.com/Egrodo/DiscordPlugins/master/GameActivityToggle.plugin.js
 https://raw.githubusercontent.com/hammy1/BDStuff/master/Plugins/dateViewer/dateViewer.plugin.js
+https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/ChannelTabs/ChannelTabs.plugin.js
 https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/Minespoiler/Minespoiler.plugin.js
 https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js
 https://raw.githubusercontent.com/leogx9r/DiscordCrypt/master/build/discordCrypt.plugin.js
