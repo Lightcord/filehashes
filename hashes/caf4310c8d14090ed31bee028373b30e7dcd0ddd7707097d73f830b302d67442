@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ChannelTabs",
+    "src": "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/f6d78adcff30808f710e1bc28f3cfbd40f6b651c/Plugins/ChannelTabs/ChannelTabs.plugin.js"
+}
