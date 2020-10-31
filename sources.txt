@@ -327,6 +327,7 @@ https://raw.githubusercontent.com/Zerthox/Discord-Color-Accent/master/CustomColo
 https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/master/Material_Icon.theme.css
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Themes/JustBlack/JustBlack.theme.css
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Themes/BetterUnreadIndicators/BetterUnreadIndicators.theme.css
+https://raw.githubusercontent.com/Juby210/EDPluginsLoader/master/EDPluginsLoader.plugin.js
 
 # Official themes
 https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/SettingPopout/SettingPopout.theme.css
