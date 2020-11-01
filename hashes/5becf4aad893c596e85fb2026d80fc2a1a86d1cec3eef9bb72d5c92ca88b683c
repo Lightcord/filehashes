@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "EDPluginsLoader",
+    "src": "https://raw.githubusercontent.com/Juby210/EDPluginsLoader/ede49c8be28a3bad456062f5629dd8ae6b5f3bf1/EDPluginsLoader.plugin.js"
+}

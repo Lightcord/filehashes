@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "DisplayServersAsChannels",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/3ba10b17a759f721a17a5a60e30964b5c4fcd346/Plugins/DisplayServersAsChannels/DisplayServersAsChannels.plugin.js"
+}
