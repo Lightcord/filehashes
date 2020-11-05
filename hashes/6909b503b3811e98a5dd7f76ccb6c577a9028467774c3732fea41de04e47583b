@@ -1,5 +1,0 @@
-{
-    "type": "Plugin",
-    "name": "ShowHiddenChannels",
-    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/b7dc585ff614b2ecd5f4fb863e602a0f10b856d9/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js"
-}

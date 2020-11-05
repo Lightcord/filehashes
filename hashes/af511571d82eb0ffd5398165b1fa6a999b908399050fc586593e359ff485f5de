@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "BetterTypingUsers",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/1a84eb79e01a6c7ec125e3a604567a83586e1e6c/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js"
 }

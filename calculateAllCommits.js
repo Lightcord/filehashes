@@ -48,7 +48,7 @@ sources.forEach(async (src, i) => {
     
                     if(blacklist){
                         fs.writeFileSync(__dirname+"/hashes/"+hash, JSON.stringify({
-                            harm: "Blacklist: "+blacklistReason,
+                            harm: blacklistReason,
                             name: meta.displayName || meta.name,
                             suspect: true,
                             type,

@@ -1,4 +1,7 @@
 {
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "HideChannels",
+    "suspect": true,
     "type": "Plugin",
-    "name": "HideChannels"
+    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/b474bd6bd7b7cb8849ee55a6655487a92d32c4c4/public/plugins/HideChannels.plugin.js"
 }

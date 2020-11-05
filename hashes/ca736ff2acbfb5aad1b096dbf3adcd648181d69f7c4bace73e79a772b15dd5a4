@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "PinPluginsAndThemes",
-    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/30ce269b5d3772b01b234728c93b0bd68ee38386/public/plugins/PinPluginsAndThemes.plugin.js"
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/b474bd6bd7b7cb8849ee55a6655487a92d32c4c4/public/plugins/PinPluginsAndThemes.plugin.js"
 }

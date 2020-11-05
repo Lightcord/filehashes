@@ -1,4 +1,5 @@
 {
     "type": "Theme",
-    "name": "Neutron"
+    "name": "Neutron",
+    "src": "https://raw.githubusercontent.com/codedotspectra/themes/ca5ec0f22e1e55a5c442abda7f7a1501ca367a43/themes-files/neutron.theme.css"
 }

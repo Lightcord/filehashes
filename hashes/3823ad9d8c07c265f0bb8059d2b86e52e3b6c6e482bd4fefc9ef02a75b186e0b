@@ -1,5 +1,0 @@
-{
-    "type": "Plugin",
-    "name": "EditServers",
-    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/9d2c96e1801a7858837c298e94398f2352c0c0e7/Plugins/EditServers/EditServers.plugin.js"
-}

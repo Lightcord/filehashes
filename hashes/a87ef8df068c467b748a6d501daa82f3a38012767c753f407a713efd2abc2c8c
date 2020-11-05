@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "BetterUnavailableGuilds",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/04bf7ce0a9bbf5fe1583ab5657aec628d8cb642c/Plugins/BetterUnavailableGuilds/BetterUnavailableGuilds.plugin.js"
 }

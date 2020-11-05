@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "BetterImageViewer",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/d3dd5f8fae32c89800b73aebf02567cb224df39a/Plugins/BetterImageViewer/BetterImageViewer.plugin.js"
 }

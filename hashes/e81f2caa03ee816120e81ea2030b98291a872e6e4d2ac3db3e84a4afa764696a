@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "QuickDeleteMessages",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/049ee867ce87a73f222ae2e862ef969fff27d6f7/public/plugins/QuickDeleteMessages.plugin.js"
 }

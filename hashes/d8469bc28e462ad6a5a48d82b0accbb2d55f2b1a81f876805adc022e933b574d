@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "UnreadBadgesRedux",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/01e19f98692208c940f22358056edf350c3e77bf/Plugins/UnreadBadgesRedux/UnreadBadgesRedux.plugin.js"
 }

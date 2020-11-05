@@ -1,5 +1,7 @@
 {
-    "type": "Plugin",
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
     "name": "CrashRecovery",
+    "suspect": true,
+    "type": "Plugin",
     "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/5649d7d6ac1dc623787c23a9cb14252891d6f950/Plugins/CrashRecovery/CrashRecovery.plugin.js"
 }

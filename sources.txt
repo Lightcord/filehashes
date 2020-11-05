@@ -2,7 +2,6 @@
 
 ## Libs
 https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js
 https://raw.githubusercontent.com/samogot/betterdiscord-plugins/master/v1/1lib_discord_internals.plugin.js
 https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/master/plugins/0circle.plugin.js
 
@@ -14,19 +13,6 @@ https://raw.githubusercontent.com/l0c4lh057/AccountSwitcher/master/AccountSwitch
 https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/GuildData/GuildData.plugin.js
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/VoiceUsersCounter/VoiceUsersCounter.plugin.js
 https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/LinkChannels/LinkChannels.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/UnreadBadgesRedux/UnreadBadgesRedux.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/InAppNotifications/InAppNotifications.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/CrashRecovery/CrashRecovery.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterImageViewer/BetterImageViewer.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/SaveToRedux/SaveToRedux.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterUnavailableGuilds/BetterUnavailableGuilds.plugin.js
-https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
-https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/MessageLoggerV2.plugin.js
-https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js
-https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/DetailedServerTooltips.plugin.js
-https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/HideChannels.plugin.js
-https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/PinPluginsAndThemes.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AlwaysMentionEveryone/AlwaysMentionEveryone.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js
 https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/ColorSighted/ColorSighted.plugin.js
@@ -334,3 +320,17 @@ https://raw.githubusercontent.com/Lightcord/BetterDiscordAddons/master/Themes/Se
 
 # Blacklist
 !https://raw.githubusercontent.com/AtiLion/BotNeck-Bot/master/BotNeck.plugin.js - Selfbot
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/UnreadBadgesRedux/UnreadBadgesRedux.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/InAppNotifications/InAppNotifications.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/CrashRecovery/CrashRecovery.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterImageViewer/BetterImageViewer.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/SaveToRedux/SaveToRedux.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterUnavailableGuilds/BetterUnavailableGuilds.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/MessageLoggerV2.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/QuickDeleteMessages.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/DetailedServerTooltips.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/HideChannels.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
+!https://gitlab.com/_Lighty_/bdstuff/-/raw/master/public/plugins/PinPluginsAndThemes.plugin.js - Potentially dangerous for Lightcord, join .gg/7eFff2A for more help
