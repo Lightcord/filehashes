@@ -1,0 +1,5 @@
+{
+    "type": "Theme",
+    "name": "Glasscord Example Theme",
+    "src": "https://raw.githubusercontent.com/AryToNeX/Glasscord/36cf6bca304c38bd79df097c50dfe2c656aabe54/extras/discord_example_theme/discord_example.theme.css"
+}
