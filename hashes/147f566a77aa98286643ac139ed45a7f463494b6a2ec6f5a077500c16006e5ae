@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "PreventSpotifyAutoPause",
+    "src": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/687b2813ff7227414fcebae4acb2c43462b3e7e1/PreventSpotifyAutoPause.plugin.js"
+}
