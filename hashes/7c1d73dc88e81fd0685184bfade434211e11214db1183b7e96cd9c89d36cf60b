@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "MessageDoubleClickActions",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/790b0a1cf7c9f78186b1511b91f92510df55e3e1/MessageDoubleClickActions/MessageDoubleClickActions.plugin.js"
+}
