@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "RemoveNicknames",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/1b27d7ac69c6a2d7bf3a4420955077c16d49d8c3/Plugins/RemoveNicknames/RemoveNicknames.plugin.js"
+}
