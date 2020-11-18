@@ -1,0 +1,7 @@
+{
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "DetailedServerTooltips",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://gitlab.com/_Lighty_/bdstuff/-/raw/14a742d85773be46431d18ca2818a42ad76508d7/public/plugins/DetailedServerTooltips.plugin.js"
+}
