@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "TimedLightDarkMode",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/2fe66e5c36e0c70a6f291b4445ee0006af777bb2/Plugins/TimedLightDarkMode/TimedLightDarkMode.plugin.js"
+}
