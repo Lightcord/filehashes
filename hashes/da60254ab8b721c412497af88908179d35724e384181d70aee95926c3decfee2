@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "CustomQuoter",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/48a184976f30b75fdcfb19072d4518eea7f07084/Plugins/CustomQuoter/CustomQuoter.plugin.js"
+}
