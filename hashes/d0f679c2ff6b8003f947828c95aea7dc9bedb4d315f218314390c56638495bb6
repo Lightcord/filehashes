@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "RemoveBlockedMessages",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/a2fd8127b74051e6372c574d98c83418a4d0a78c/Plugins/RemoveBlockedMessages/RemoveBlockedMessages.plugin.js"
+}

@@ -1,0 +1,7 @@
+{
+    "harm": "Selfbot",
+    "name": "BotNeck",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/AtiLion/BotNeck-Bot/4eb220e4d73d7bc6e3bde0576dcc51668396511b/BotNeck.plugin.js"
+}
