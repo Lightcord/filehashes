@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ThemeSettings",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/094d0677b95d69e26f3de10e0108a794cd7e3a9d/Plugins/ThemeSettings/ThemeSettings.plugin.js"
+}
