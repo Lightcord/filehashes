@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "PinDMs",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/7e163e1fa53bd95d984fadd7536cea43eca74093/Plugins/PinDMs/PinDMs.plugin.js"
+}
