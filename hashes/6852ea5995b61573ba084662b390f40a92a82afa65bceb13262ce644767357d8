@@ -1,0 +1,7 @@
+{
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "MessageLoggerV2",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/5e704e44dd6c58de13ce5c1f1cce4039b266e5b3/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js"
+}
