@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "BDFDB",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/dbf4d4c2b50ca377d04200dd3534639d083d1063/Library/0BDFDB.plugin.js"
+}

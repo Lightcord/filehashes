@@ -1,0 +1,7 @@
+{
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "XenoLib",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/a04b09702aa86b84d130ee26598e0e8ca66dc9b9/Plugins/1XenoLib.plugin.js"
+}

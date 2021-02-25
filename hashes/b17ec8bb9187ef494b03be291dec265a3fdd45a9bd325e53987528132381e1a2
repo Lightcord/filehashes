@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "WriteUpperCase",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/38e5f2e4fe86f0db924509c989c1e3dfc8d9be43/Plugins/WriteUpperCase/WriteUpperCase.plugin.js"
+}

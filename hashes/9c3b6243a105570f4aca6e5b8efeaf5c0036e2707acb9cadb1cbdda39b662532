@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "OwnerTag",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/da2d8ea7ed2f0f9024915302df87a07321c766a0/Plugins/OwnerTag/OwnerTag.plugin.js"
+}

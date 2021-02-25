@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "toggleYourStuff",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/f08b80c5c35f063fb0a0b27605cd5b12046e0f9b/plugins/toggleYourStuff.plugin.js"
+}

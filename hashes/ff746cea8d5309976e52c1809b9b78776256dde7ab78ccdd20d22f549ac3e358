@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ImageUtilities",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/9c6e55bcfdedf48cf609497dc2c97b9076eb6846/Plugins/ImageUtilities/ImageUtilities.plugin.js"
+}

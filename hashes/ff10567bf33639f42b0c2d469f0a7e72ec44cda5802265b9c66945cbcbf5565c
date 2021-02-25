@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "EditUsers",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/5615d44fdd78ec27596c46f72236228188851564/Plugins/EditUsers/EditUsers.plugin.js"
+}
