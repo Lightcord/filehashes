@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "CopyRawMessage",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/9dd1cb4d55fca0acf298422303e98c8e9b66599e/Plugins/CopyRawMessage/CopyRawMessage.plugin.js"
+}

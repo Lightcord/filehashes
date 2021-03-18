@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "BetterSearchPage",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/5a423956d0e7842a6ecbd42f73164a8d2ad92dce/Plugins/BetterSearchPage/BetterSearchPage.plugin.js"
+}

@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "CompleteTimestamps",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/1ffef13f92d723bd000ddffd294448cc91530e59/Plugins/CompleteTimestamps/CompleteTimestamps.plugin.js"
+}

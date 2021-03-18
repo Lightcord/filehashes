@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "JoinedAtDate",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/1ffef13f92d723bd000ddffd294448cc91530e59/Plugins/JoinedAtDate/JoinedAtDate.plugin.js"
+}
