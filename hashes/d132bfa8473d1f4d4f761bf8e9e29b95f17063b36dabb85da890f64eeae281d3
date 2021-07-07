@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ZeresPluginLibrary",
+    "src": "https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/2b51b9b2da8e179006de3b90699e1dfee9047754/release/0PluginLibrary.plugin.js"
+}

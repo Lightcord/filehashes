@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ColorSighted",
+    "src": "https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/f993a2422abccf067432427d13df9afd9509ddf1/Plugins/ColorSighted/ColorSighted.plugin.js"
+}

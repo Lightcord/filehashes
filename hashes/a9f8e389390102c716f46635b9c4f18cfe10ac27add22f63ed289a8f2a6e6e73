@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ShutUpClyde",
+    "src": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/448329aa4ada2ef99e281a07a885d3a4ae57d930/ShutUpClyde/ShutUpClyde.plugin.js"
+}

@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "Link-Profile-Picture",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/997b3f412deb47d477e13233c425e4acd828f9f9/plugins/linkProfilePicture.plugin.js"
+}

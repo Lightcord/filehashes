@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "EditChannels",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/6ba9e4979339c777f5bf9be6b04ded7ee995f6e4/Plugins/EditChannels/EditChannels.plugin.js"
+}

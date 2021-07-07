@@ -1,0 +1,7 @@
+{
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "InAppNotifications",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/ef9edb8d3b234b756fa8163472cd6975e871e4fa/Plugins/InAppNotifications/InAppNotifications.plugin.js"
+}

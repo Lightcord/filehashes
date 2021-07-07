@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "ChatAliases",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/3f9dfafc0f67b70037a1119fd466c9830df1b129/Plugins/ChatAliases/ChatAliases.plugin.js"
+}

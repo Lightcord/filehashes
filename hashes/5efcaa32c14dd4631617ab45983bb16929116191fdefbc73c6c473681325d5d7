@@ -1,0 +1,7 @@
+{
+    "harm": "Potentially dangerous for Lightcord, join .gg/7eFff2A for more help",
+    "name": "SaveToRedux",
+    "suspect": true,
+    "type": "Plugin",
+    "src": "https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/3e84a73f5bec5a44ac4335d546311e15e0650dd2/Plugins/SaveToRedux/SaveToRedux.plugin.js"
+}

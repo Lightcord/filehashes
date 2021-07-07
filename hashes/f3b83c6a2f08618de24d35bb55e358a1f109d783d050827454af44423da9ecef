@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "BadgesEverywhere",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/98199833ed4f43884a27f7d0e1200f07d9337cfb/Plugins/BadgesEverywhere/BadgesEverywhere.plugin.js"
+}
