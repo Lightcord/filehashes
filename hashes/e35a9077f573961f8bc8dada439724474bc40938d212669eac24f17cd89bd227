@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "Snowfall",
+    "src": "https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/90c007392e6367686eda8c31147631e91d18eb08/plugins/Snowfall.plugin.js"
+}

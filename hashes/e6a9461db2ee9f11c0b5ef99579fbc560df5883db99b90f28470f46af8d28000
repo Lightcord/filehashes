@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "FriendNotifications",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/0b24844f2d183b1d8281ce2d43e6e0a8201d1ee1/Plugins/FriendNotifications/FriendNotifications.plugin.js"
+}

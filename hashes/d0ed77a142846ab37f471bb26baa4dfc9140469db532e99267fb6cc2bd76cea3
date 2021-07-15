@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "LastMessageDate",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/c69170428789bc432abcb6e8ac645366d108559c/Plugins/LastMessageDate/LastMessageDate.plugin.js"
+}

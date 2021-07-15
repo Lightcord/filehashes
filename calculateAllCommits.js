@@ -8,7 +8,7 @@ const sources = process.argv[2] ? [process.argv[2]] : fs.readFileSync(__dirname+
 //console.log(`Processing sources: ${sources.map(e => "\x1b[31m"+e.replace("https://raw.githubusercontent.com/", "")+"\x1b[0m").join(", ")}`)
 
 sources.forEach(async (src, i) => {
-    await new Promise(resolve => setTimeout(resolve, i * 100))
+    await new Promise(resolve => setTimeout(resolve, i * 500))
     let blacklist = false
     let blacklistReason = null
     if(src.startsWith("!")){

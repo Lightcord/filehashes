@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "GoogleSearchReplace",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/5559bed7f70933f84cbfd93b8a6ea0f847183ca2/Plugins/GoogleSearchReplace/GoogleSearchReplace.plugin.js"
+}

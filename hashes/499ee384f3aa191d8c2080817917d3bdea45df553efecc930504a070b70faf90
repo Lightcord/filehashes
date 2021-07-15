@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "AccountSwitcher",
+    "src": "https://raw.githubusercontent.com/l0c4lh057/AccountSwitcher/06a057d2db56540a1cd96be248a8b7aa23de407c/AccountSwitcher.plugin.js"
+}

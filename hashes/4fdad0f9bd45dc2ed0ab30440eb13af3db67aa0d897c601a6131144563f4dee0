@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "TitleForTitlebar",
+    "src": "https://raw.githubusercontent.com/Arashiryuu/crap/6060efd3a24c860e407c2677f9f3959171831ade/ToastIntegrated/TitleForTitlebar/TitleForTitlebar.plugin.js"
+}

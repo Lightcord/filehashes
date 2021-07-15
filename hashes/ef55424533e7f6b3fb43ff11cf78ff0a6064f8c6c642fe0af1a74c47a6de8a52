@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "GoogleTranslateOption",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/89725a09abf9f27ebad812118928786eae6c046e/Plugins/GoogleTranslateOption/GoogleTranslateOption.plugin.js"
+}

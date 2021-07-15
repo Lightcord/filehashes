@@ -1,0 +1,5 @@
+{
+    "type": "Plugin",
+    "name": "PluginRepo",
+    "src": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/482160115d3b3eba47d4adc59c58e0d22dc67401/Plugins/PluginRepo/PluginRepo.plugin.js"
+}
